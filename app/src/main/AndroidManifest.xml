@@ -25,6 +25,9 @@
         </activity>
         <activity android:name=".activity.TranslateActivity"/>
         <activity android:name=".activity.TranslationResultActivity"/>
+        <meta-data
+            android:name="test.timeout"
+            android:value="120000" />
     </application>
 
 </manifest>
