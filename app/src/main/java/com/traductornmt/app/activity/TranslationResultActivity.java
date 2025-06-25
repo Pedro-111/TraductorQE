@@ -8,6 +8,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.traductornmt.app.MainActivity;
+import com.traductornmt.app.activity.diccionario.DictionaryActivity;
 import com.traductornmt.app.databinding.ActivityTranslationResultBinding;
 
 public class TranslationResultActivity extends AppCompatActivity {
@@ -90,6 +91,10 @@ public class TranslationResultActivity extends AppCompatActivity {
             startActivity(intent);
         });
         */
+        binding.ivDictionary.setOnClickListener(v -> {
+            Intent intent = new Intent(this, DictionaryActivity.class);
+            startActivity(intent);
+        });
     }
 
     private void copyToClipboard() {

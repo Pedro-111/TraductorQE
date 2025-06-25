@@ -9,6 +9,7 @@ import android.widget.Toast;
 import androidx.appcompat.app.AppCompatActivity;
 
 import com.traductornmt.app.MainActivity;
+import com.traductornmt.app.activity.diccionario.DictionaryActivity;
 import com.traductornmt.app.databinding.ActivityTranslateBinding;
 import com.traductornmt.app.models.TranslationRequest;
 import com.traductornmt.app.models.TranslationResponse;
@@ -89,6 +90,10 @@ public class TranslateActivity extends AppCompatActivity {
                 Toast.makeText(this, "Funcionalidad de favoritos próximamente", Toast.LENGTH_SHORT).show();
             });
         }*/
+        binding.ivDictionary.setOnClickListener(v -> {
+            Intent intent = new Intent(this, DictionaryActivity.class);
+            startActivity(intent);
+        });
     }
 
     private void translateText() {

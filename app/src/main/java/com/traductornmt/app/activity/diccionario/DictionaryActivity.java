@@ -27,6 +27,8 @@ public class DictionaryActivity extends AppCompatActivity {
     private List<Entrada> entradasCompletas;
     private boolean isQuechuaToSpanish = true; // true = Quechua->Español, false = Español->Quechua
 
+    private static final String JSON_QUECHUA_ESPANOL = "entradas_quechua_espanol.json";
+    private static final String JSON_ESPANOL_QUECHUA = "entradas_espanol_quechua.json";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -57,7 +59,12 @@ public class DictionaryActivity extends AppCompatActivity {
         binding.btnChangeDirection.setOnClickListener(v -> {
             isQuechuaToSpanish = !isQuechuaToSpanish;
             updateDirectionUI();
-            performSearch(binding.etSearch.getText().toString().trim());
+
+            // Limpiar búsqueda actual
+            binding.etSearch.setText("");
+
+            // Cargar datos del archivo correspondiente
+            loadDataForCurrentDirection();
         });
 
         // Botón limpiar búsqueda
@@ -99,38 +106,48 @@ public class DictionaryActivity extends AppCompatActivity {
             public void afterTextChanged(Editable s) {}
         });
     }
-
     private void loadInitialData() {
-        // Verificar si ya hay datos en la base de datos
-        List<Entrada> entradasExistentes = diccionarioDAO.obtenerTodas();
+        loadDataForCurrentDirection();
+    }
+    private void loadDataForCurrentDirection() {
+        String archivoJSON = isQuechuaToSpanish ? JSON_QUECHUA_ESPANOL : JSON_ESPANOL_QUECHUA;
+        String tablaDestino = isQuechuaToSpanish ? "entradas_qe" : "entradas_eq";
+
+        // Verificar si ya hay datos para esta dirección
+        List<Entrada> entradasExistentes = diccionarioDAO.obtenerTodasDeTabla(tablaDestino);
 
         if (entradasExistentes.isEmpty()) {
-            // Cargar datos desde JSON
-            loadDataFromJSON();
+            loadDataFromJSON(archivoJSON, tablaDestino);
         } else {
             entradasCompletas = entradasExistentes;
             showAllEntries();
         }
     }
-
-    private void loadDataFromJSON() {
+    private void loadDataFromJSON(String nombreArchivo, String tabla) {
         try {
             binding.progressBar.setVisibility(View.VISIBLE);
 
             // Leer JSON desde assets
-            String json = readJSONFromAssets("entradas.json");
+            String json = readJSONFromAssets(nombreArchivo);
+
+            if (json == null || json.isEmpty()) {
+                Toast.makeText(this, "No se encontró el archivo " + nombreArchivo,
+                        Toast.LENGTH_SHORT).show();
+                return;
+            }
 
             // Convertir JSON a objetos
             JSONManager jsonManager = new JSONManager();
             List<Entrada> entradas = jsonManager.jsonToEntradas(json);
 
-            // Insertar en base de datos
-            int insertadas = diccionarioDAO.insertarEntradas(entradas);
+            // Insertar en la tabla correspondiente
+            int insertadas = diccionarioDAO.insertarEntradasEnTabla(entradas, tabla);
 
             if (insertadas > 0) {
                 entradasCompletas = entradas;
                 showAllEntries();
-                Toast.makeText(this, "Diccionario cargado: " + insertadas + " entradas",
+                String direccion = isQuechuaToSpanish ? "Quechua-Español" : "Español-Quechua";
+                Toast.makeText(this, "Diccionario " + direccion + " cargado: " + insertadas + " entradas",
                         Toast.LENGTH_SHORT).show();
             }
 
@@ -157,18 +174,22 @@ public class DictionaryActivity extends AppCompatActivity {
             return;
         }
 
-        List<Entrada> resultados;
-        if (isQuechuaToSpanish) {
-            // Buscar en palabras quechua
-            resultados = diccionarioDAO.buscarPorPalabra(searchText);
-        } else {
-            // Buscar en definiciones españolas
-            resultados = diccionarioDAO.buscarEnDefinicion(searchText);
-        }
+        String tablaDestino = isQuechuaToSpanish ? "entradas_qe" : "entradas_eq";
+        List<Entrada> resultados = diccionarioDAO.buscarPorPalabraEnTabla(searchText, tablaDestino);
 
         adapter.updateData(resultados);
         updateResultsCount(resultados.size());
     }
+    private void showAllEntries() {
+        if (entradasCompletas == null) {
+            String tablaDestino = isQuechuaToSpanish ? "entradas_qe" : "entradas_eq";
+            entradasCompletas = diccionarioDAO.obtenerTodasDeTabla(tablaDestino);
+        }
+        adapter.updateData(entradasCompletas);
+        updateResultsCount(entradasCompletas.size());
+    }
+
+
     private void updateDirectionUI() {
         if (isQuechuaToSpanish) {
             binding.tvFromLanguage.setText("Quechua");
@@ -179,18 +200,7 @@ public class DictionaryActivity extends AppCompatActivity {
             binding.tvToLanguage.setText("Quechua");
             binding.etSearch.setHint("Buscar en español...");
         }
-
-        // Actualizar el adapter con la nueva dirección
-        adapter.setDirection(isQuechuaToSpanish);
     }
-    private void showAllEntries() {
-        if (entradasCompletas == null) {
-            entradasCompletas = diccionarioDAO.obtenerTodas();
-        }
-        adapter.updateData(entradasCompletas);
-        updateResultsCount(entradasCompletas.size());
-    }
-
 
     private void updateResultsCount(int count) {
         if (count == 0) {

@@ -1,0 +1,386 @@
+[
+  {
+    "palabra": "dirección",
+    "origen": "",
+    "categoria": "sufijo",
+    "definicion": "-man, -ta",
+    "ejemplo": "Rini Chitillaman (Voy a Chetilla).",
+    "referencias": "Sufijos direccionales usados en toponimia local."
+  },
+  {
+    "palabra": "objeto",
+    "origen": "",
+    "categoria": "sufijo",
+    "definicion": "-ta",
+    "ejemplo": "Chitillata rikani (Veo a Chetilla).",
+    "referencias": "Marcador de objeto directo en la gramática quechua."
+  },
+  {
+    "palabra": "propósito",
+    "origen": "",
+    "categoria": "sufijo",
+    "definicion": "-paq",
+    "ejemplo": "Tantata rantini churiypaq (Compro pan para mi hijo).",
+    "referencias": "Indica finalidad en acciones cotidianas."
+  },
+  {
+    "palabra": "hasta",
+    "origen": "",
+    "categoria": "sufijo",
+    "definicion": "-kaman",
+    "ejemplo": "Trayarqani Limakaman (Llegué hasta Lima).",
+    "referencias": "Usado para marcar límites geográficos."
+  },
+  {
+    "palabra": "abajo",
+    "origen": "",
+    "categoria": "adv.",
+    "definicion": "Ura",
+    "ejemplo": "Ura pataman urmay (Cae al suelo).",
+    "referencias": "Término espacial en descripciones de terreno."
+  },
+  {
+    "palabra": "abalear",
+    "origen": "del esp.",
+    "categoria": "tr.",
+    "definicion": "Balyay, blankiyay",
+    "ejemplo": "Blankiyay animalta (Dispara al animal).",
+    "referencias": "Término adoptado para uso de armas de fuego."
+  },
+  {
+    "palabra": "abandonado",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "Wichukushqa",
+    "ejemplo": "Wasi wichukushqam (Casa abandonada).",
+    "referencias": "Estado de lugares o personas en contextos migratorios."
+  },
+  {
+    "palabra": "abandonar",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Wichukuy",
+    "ejemplo": "Warmiyta wichukuni (Abandono a mi esposa).",
+    "referencias": "Acción con connotaciones sociales graves."
+  },
+  {
+    "palabra": "abanico",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Abanu",
+    "ejemplo": "Abanuwan qoniy (Abanícame con el abanico).",
+    "referencias": "Objeto usado en climas cálidos del valle."
+  },
+  {
+    "palabra": "abeja",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Ushun",
+    "ejemplo": "Ushun mielta ruwan (La abeja hace miel).",
+    "referencias": "Insecto valorado por su miel en medicina tradicional."
+  },
+  {
+    "palabra": "abertura",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Talalán",
+    "ejemplo": "Talalánpi pakakun (Se esconde en la abertura).",
+    "referencias": "Referente a grietas naturales en cerros o rocas."
+  },
+  {
+    "palabra": "abierto",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "Kitrashqa, kitrarashqa",
+    "ejemplo": "Punku kitrashqam (La puerta está abierta).",
+    "referencias": "Estado de puertas o recipientes."
+  },
+  {
+    "palabra": "abofetear",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Lapyay, laputiy, paqyay",
+    "ejemplo": "Paqyay wawanchikta (No abofetees a nuestro hijo).",
+    "referencias": "Acciones consideradas violencia doméstica."
+  },
+  {
+    "palabra": "abogado",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Abugadu",
+    "ejemplo": "Abugadu derechosninchikta defienden (El abogado defiende nuestros derechos).",
+    "referencias": "Figura clave en conflictos de tierras comunales."
+  },
+  {
+    "palabra": "abonar",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Wanuy",
+    "ejemplo": "Wanuy chakrata (Abona la chacra).",
+    "referencias": "Práctica agrícola con estiércol de animales."
+  },
+  {
+    "palabra": "abono",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Wanu",
+    "ejemplo": "Wanu allinmi (El abono es bueno).",
+    "referencias": "Fertilizante natural en cultivos andinos."
+  },
+  {
+    "palabra": "aborrecer",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Treqney, aburrisichiy",
+    "ejemplo": "Ama aburrisichiy churaw (No aborrezcas al ganado).",
+    "referencias": "Sentimiento fuerte desaprobado en ética comunal."
+  },
+  {
+    "palabra": "aborto",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Shullu",
+    "ejemplo": "Shullu wañuchiy (Aborto provocado).",
+    "referencias": "Tema tabú en comunidades tradicionales."
+  },
+  {
+    "palabra": "abortar",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Shulluy",
+    "ejemplo": "Warmi shullurqan (La mujer abortó).",
+    "referencias": "Proceso natural o inducido con hierbas medicinales."
+  },
+  {
+    "palabra": "abra",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Kunka",
+    "ejemplo": "Kunka patapi purikuy (Camina por el abra).",
+    "referencias": "Paso natural entre montañas usado en caminos ancestrales."
+  },
+  {
+    "palabra": "abrazar",
+    "origen": "del esp.",
+    "categoria": "tr.",
+    "definicion": "Abrasay",
+    "ejemplo": "Abrasay warmiykita (Abraza a tu esposa).",
+    "referencias": "Saludo afectuoso entre familiares."
+  },
+  {
+    "palabra": "abrigar",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Oqllay",
+    "ejemplo": "Oqllay wawaykita (Abriga a tu hijo).",
+    "referencias": "Uso de mantas tejidas (lliklla) contra el frío."
+  },
+  {
+    "palabra": "abrigarse",
+    "origen": "",
+    "categoria": "refl.",
+    "definicion": "Qoñoy, goñokay, mashakuy",
+    "ejemplo": "Qoñoy chiriwan (Abrígate del frío).",
+    "referencias": "Necesidad vital en zonas altoandinas."
+  },
+  {
+    "palabra": "abril",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Abril",
+    "ejemplo": "Abrilpi pawkar raymi (En abril es la fiesta del florecimiento).",
+    "referencias": "Mes de transición entre lluvias y cosechas."
+  },
+  {
+    "palabra": "abrir",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Kitray",
+    "ejemplo": "Kitray punkuta (Abre la puerta).",
+    "referencias": "Acción física o simbólica (ej. ceremonias)."
+  },
+  {
+    "palabra": "abuela",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Awila, chichi, chucha",
+    "ejemplo": "Awila willakunmi (La abuela cuenta historias).",
+    "referencias": "Guardiana de tradiciones orales y saberes medicinales."
+  },
+  {
+    "palabra": "abuelo",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Awilu, chuchu",
+    "ejemplo": "Awilu yachaqmi (El abuelo es sabio).",
+    "referencias": "Transmisor de conocimientos agrícolas y rituales."
+  },
+  {
+    "palabra": "abundante",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "Achka",
+    "ejemplo": "Achka mikhuymi (Comida abundante).",
+    "referencias": "Concepto valorado en festividades comunales."
+  },
+  {
+    "palabra": "aburrir",
+    "origen": "del esp.",
+    "categoria": "tr.",
+    "definicion": "Aburriy",
+    "ejemplo": "Ama aburrichiy (No aburras).",
+    "referencias": "Emoción evitada en reuniones sociales."
+  },
+  {
+    "palabra": "aburrirse",
+    "origen": "del esp.",
+    "categoria": "refl.",
+    "definicion": "Aburrikay",
+    "ejemplo": "Aburrikuni llamk'aypi (Me aburro en el trabajo).",
+    "referencias": "Estado considerado falta de iniciativa."
+  },
+  {
+    "palabra": "abusar",
+    "origen": "del esp.",
+    "categoria": "tr.",
+    "definicion": "Abusay",
+    "ejemplo": "Ama abusaychu (No abuses).",
+    "referencias": "Acción severamente sancionada en normas comunales."
+  },
+  {
+    "palabra": "acá",
+    "origen": "",
+    "categoria": "adv.",
+    "definicion": "Kaypi",
+    "ejemplo": "Kaypi samakuy (Descansa acá).",
+    "referencias": "Indicador de proximidad en el espacio."
+  },
+  {
+    "palabra": "acá nomás",
+    "origen": "",
+    "categoria": "adv.",
+    "definicion": "Kaypilla",
+    "ejemplo": "Kaypilla kachkan (Está aquí nomás).",
+    "referencias": "Expresión coloquial para distancias cortas."
+  },
+  {
+    "palabra": "acabar",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Ushyay",
+    "ejemplo": "Ushyay llamk'ayta (Termina el trabajo).",
+    "referencias": "Verbo de finalización en tareas cotidianas."
+  },
+  {
+    "palabra": "acabarse",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Ushyakay",
+    "ejemplo": "Mikhuymi ushyakarqan (La comida se acabó).",
+    "referencias": "Situación de escasez temida en hogares."
+  },
+  {
+    "palabra": "acariciar",
+    "origen": "del esp.",
+    "categoria": "tr.",
+    "definicion": "Kariñay, kuyanapay",
+    "ejemplo": "Kariñay wawaykita (Acaricia a tu hijo).",
+    "referencias": "Muestra de afecto familiar."
+  },
+  {
+    "palabra": "accesible",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "Yaykuypaq, atiypaq",
+    "ejemplo": "Atiypaq wasi (Casa accesible).",
+    "referencias": "Importante en diseño para adultos mayores."
+  },
+  {
+    "palabra": "acechar",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Chapay, waytiyay",
+    "ejemplo": "Waytiyay animalta (Acecha al animal).",
+    "referencias": "Técnica de caza o vigilancia."
+  },
+  {
+    "palabra": "acemila",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Abyu",
+    "ejemplo": "Abyuwan carga apanku (Llevan carga con acemilas).",
+    "referencias": "Animal de carga en zonas rurales."
+  },
+  {
+    "palabra": "aceptar",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Alli niwanmi, asiptay",
+    "ejemplo": "Asiptay qunqaykita (Acepta mi regalo).",
+    "referencias": "Gestos clave en reciprocidad (ayni)."
+  },
+  {
+    "palabra": "acequia",
+    "origen": "del ár. a través del esp.",
+    "categoria": "s.",
+    "definicion": "Sikya",
+    "ejemplo": "Sikya yakuta apachkan (La acequia lleva agua).",
+    "referencias": "Sistema de riego ancestral en andenerías."
+  },
+  {
+    "palabra": "acercarse",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Trayay, tinkuy",
+    "ejemplo": "Trayay wasiman (Acércate a la casa).",
+    "referencias": "Movimiento físico o social (ej. reconciliación)."
+  },
+  {
+    "palabra": "ácido",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "Pochqo",
+    "ejemplo": "Pochqo mikhuymi (Comida ácida).",
+    "referencias": "Sabor presente en frutas nativas como la tumbo."
+  },
+  {
+    "palabra": "acomodar",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Allichay",
+    "ejemplo": "Allichay imakunata (Acomoda las cosas).",
+    "referencias": "Organización de espacios para rituales o vida diaria."
+  },
+  {
+    "palabra": "acompañar",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Yapachay",
+    "ejemplo": "Yapachay puriqkunata (Acompaña a los caminantes).",
+    "referencias": "Práctica de solidaridad en viajes peligrosos."
+  },
+  {
+    "palabra": "acordar",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Yuyay",
+    "ejemplo": "Yuyay llamk'aypaq (Acuerden el trabajo).",
+    "referencias": "Proceso decisorio en asambleas comunales."
+  },
+  {
+    "palabra": "acostado",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "Usurashqa",
+    "ejemplo": "Usurashqa puñun (Duerme acostado).",
+    "referencias": "Posición para descanso o enfermedad."
+  },
+  {
+    "palabra": "acostarse",
+    "origen": "",
+    "categoria": "refl.",
+    "definicion": "Usuray",
+    "ejemplo": "Usuray puñunapaq (Acuéstate para dormir).",
+    "referencias": "Acto diario con rituales previos (ej. rezar)."
+  }
+]

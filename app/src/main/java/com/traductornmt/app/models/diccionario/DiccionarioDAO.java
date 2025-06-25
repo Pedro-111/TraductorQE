@@ -14,37 +14,12 @@ public class DiccionarioDAO {
     public DiccionarioDAO(Context context) {
         dbHelper = new DatabaseHelper(context);
     }
-
-    public void abrir() {
-        database = dbHelper.getWritableDatabase();
-    }
-
-    public void cerrar() {
-        if (database != null && database.isOpen()) {
-            database.close();
-        }
-    }
-
-    // Insertar una entrada
-    public long insertarEntrada(Entrada entrada) {
-        ContentValues values = new ContentValues();
-        values.put(DatabaseHelper.COLUMN_PALABRA, entrada.getPalabra());
-        values.put(DatabaseHelper.COLUMN_ORIGEN, entrada.getOrigen());
-        values.put(DatabaseHelper.COLUMN_CATEGORIA, entrada.getCategoria());
-        values.put(DatabaseHelper.COLUMN_DEFINICION, entrada.getDefinicion());
-        values.put(DatabaseHelper.COLUMN_EJEMPLO, entrada.getEjemplo());
-        values.put(DatabaseHelper.COLUMN_REFERENCIAS, entrada.getReferencias());
-
-        return database.insert(DatabaseHelper.TABLE_ENTRADAS, null, values);
-    }
-
-    // Insertar múltiples entradas (más eficiente)
-    public int insertarEntradas(List<Entrada> entradas) {
+    public int insertarEntradasEnTabla(List<Entrada> entradas, String tabla) {
         int insertadas = 0;
         database.beginTransaction();
         try {
             for (Entrada entrada : entradas) {
-                long resultado = insertarEntrada(entrada);
+                long resultado = insertarEntradaEnTabla(entrada, tabla);
                 if (resultado != -1) {
                     insertadas++;
                 }
@@ -55,15 +30,33 @@ public class DiccionarioDAO {
         }
         return insertadas;
     }
+    public long insertarEntradaEnTabla(Entrada entrada, String tabla) {
+        ContentValues values = new ContentValues();
+        values.put(DatabaseHelper.COLUMN_PALABRA, entrada.getPalabra());
+        values.put(DatabaseHelper.COLUMN_ORIGEN, entrada.getOrigen());
+        values.put(DatabaseHelper.COLUMN_CATEGORIA, entrada.getCategoria());
+        values.put(DatabaseHelper.COLUMN_DEFINICION, entrada.getDefinicion());
+        values.put(DatabaseHelper.COLUMN_EJEMPLO, entrada.getEjemplo());
+        values.put(DatabaseHelper.COLUMN_REFERENCIAS, entrada.getReferencias());
 
-    // Buscar por palabra
-    public List<Entrada> buscarPorPalabra(String palabra) {
+        return database.insert(tabla, null, values);
+    }
+    public void abrir() {
+        database = dbHelper.getWritableDatabase();
+    }
+
+    public void cerrar() {
+        if (database != null && database.isOpen()) {
+            database.close();
+        }
+    }
+    public List<Entrada> buscarPorPalabraEnTabla(String palabra, String tabla) {
         List<Entrada> entradas = new ArrayList<>();
         String selection = DatabaseHelper.COLUMN_PALABRA + " LIKE ?";
         String[] selectionArgs = {"%" + palabra + "%"};
 
         Cursor cursor = database.query(
-                DatabaseHelper.TABLE_ENTRADAS,
+                tabla,
                 null,
                 selection,
                 selectionArgs,
@@ -76,6 +69,26 @@ public class DiccionarioDAO {
         cursor.close();
         return entradas;
     }
+    public List<Entrada> obtenerTodasDeTabla(String tabla) {
+        List<Entrada> entradas = new ArrayList<>();
+
+        Cursor cursor = database.query(
+                tabla,
+                null,
+                null,
+                null,
+                null,
+                null,
+                DatabaseHelper.COLUMN_PALABRA + " ASC"
+        );
+
+        entradas = cursorToEntradas(cursor);
+        cursor.close();
+        return entradas;
+    }
+    // Insertar una entrada
+
+
 
     private List<Entrada> cursorToEntradas(Cursor cursor) {
         List<Entrada> entradas = new ArrayList<>();
@@ -97,41 +110,5 @@ public class DiccionarioDAO {
 
         return entradas;
     }
-    public List<Entrada> buscarEnDefinicion(String texto) {
-        List<Entrada> entradas = new ArrayList<>();
-        String selection = DatabaseHelper.COLUMN_DEFINICION + " LIKE ?";
-        String[] selectionArgs = {"%" + texto + "%"};
 
-        Cursor cursor = database.query(
-                DatabaseHelper.TABLE_ENTRADAS,
-                null,
-                selection,
-                selectionArgs,
-                null,
-                null,
-                DatabaseHelper.COLUMN_PALABRA + " ASC"
-        );
-
-        entradas = cursorToEntradas(cursor);
-        cursor.close();
-        return entradas;
-    }
-
-    public List<Entrada> obtenerTodas() {
-        List<Entrada> entradas = new ArrayList<>();
-
-        Cursor cursor = database.query(
-                DatabaseHelper.TABLE_ENTRADAS,
-                null,
-                null,
-                null,
-                null,
-                null,
-                DatabaseHelper.COLUMN_PALABRA + " ASC"
-        );
-
-        entradas = cursorToEntradas(cursor);
-        cursor.close();
-        return entradas;
-    }
 }
