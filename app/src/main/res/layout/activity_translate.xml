@@ -200,13 +200,13 @@
             android:src="@drawable/ic_translate" />
 
         <ImageView
-            android:id="@+id/iv_favorites"
+            android:id="@+id/iv_dictionary"
             android:layout_width="48dp"
             android:layout_height="48dp"
             android:layout_marginHorizontal="32dp"
             android:background="?attr/selectableItemBackgroundBorderless"
             android:padding="8dp"
-            android:src="@drawable/ic_favorite" />
+            android:src="@drawable/ic_book" />
 
     </LinearLayout>
 

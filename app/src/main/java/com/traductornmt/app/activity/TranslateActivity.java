@@ -82,13 +82,13 @@ public class TranslateActivity extends AppCompatActivity {
                 // Ya estamos en translate, no hacer nada o mostrar mensaje
             });
         }
-
+        /*
         if (binding.ivFavorites != null) {
             binding.ivFavorites.setOnClickListener(v -> {
                 // Agregar navegación a favoritos cuando esté implementado
                 Toast.makeText(this, "Funcionalidad de favoritos próximamente", Toast.LENGTH_SHORT).show();
             });
-        }
+        }*/
     }
 
     private void translateText() {

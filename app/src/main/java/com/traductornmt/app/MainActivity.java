@@ -10,6 +10,7 @@ import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
 
 import com.traductornmt.app.activity.TranslateActivity;
+import com.traductornmt.app.activity.diccionario.DictionaryActivity;
 import com.traductornmt.app.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
@@ -46,6 +47,10 @@ public class MainActivity extends AppCompatActivity {
             Intent intent = new Intent(this, FavoritesActivity.class);
             startActivity(intent);
         });*/
+        binding.ivDiccionario.setOnClickListener(v -> {
+            Intent intent = new Intent(this, DictionaryActivity.class);
+            startActivity(intent);
+        });
     }
 
     @Override

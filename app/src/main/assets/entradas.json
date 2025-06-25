@@ -1,0 +1,1405 @@
+[
+  {
+    "palabra": "ABAS",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Habas (papilionáceas).",
+    "ejemplo": "Las abas se siembran en agosto para cosecharlas en noviembre.",
+    "referencias": "Legumbre introducida por los españoles, adaptada a la agricultura andina."
+  },
+  {
+    "palabra": "ABANU",
+    "origen": "",
+    "categoria": "s. adj.",
+    "definicion": "Abanico (soplador). Diferentes tonos de marrón (se aplica a tejidos).",
+    "ejemplo": "Tejió un poncho con hilos abanu para camuflarse en el paisaje árido.",
+    "referencias": "Término usado en técnicas de teñido natural con tierras ocres."
+  },
+  {
+    "palabra": "ABINA",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Avena.",
+    "ejemplo": "La abina se mezcla con quinua para hacer harina nutritiva.",
+    "referencias": "Cereal europeo adoptado en la dieta altoandina por su resistencia al frío."
+  },
+  {
+    "palabra": "ABINA-MATARU",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Tipo de avena.",
+    "ejemplo": "La abina-mataru crece en tierras altas y tiene granos más duros.",
+    "referencias": "Variedad autóctona seleccionada por su adaptación climática."
+  },
+  {
+    "palabra": "ABRIL",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Abril.",
+    "ejemplo": "En abril comienzan las lluvias escasas en la puna.",
+    "referencias": "Mes asociado al ciclo agrícola andino (época de siembra tardía)."
+  },
+  {
+    "palabra": "ABUGADU",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Abogado.",
+    "ejemplo": "El abugadu defendió los derechos de la comunidad ante el gobierno.",
+    "referencias": "Figura clave en conflictos de tierras durante la colonia y república."
+  },
+  {
+    "palabra": "ABURRIY",
+    "origen": "del esp.",
+    "categoria": "tr.",
+    "definicion": "Aburrir.",
+    "ejemplo": "Los niños gritaban: '¡Aburrivmi kay clase!' (¡Esta clase es aburrida!).",
+    "referencias": "Verbo común en contextos educativos o reuniones largas."
+  },
+  {
+    "palabra": "ABYAY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Despedir; preparar un viaje; alejar a alguien.",
+    "ejemplo": "Abyav warmiyta viajeykipaq (Despidió a su esposa para su viaje).",
+    "referencias": "Término con connotaciones rituales en despedidas importantes."
+  },
+  {
+    "palabra": "ABYU",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Bestia de carga; acémila.",
+    "ejemplo": "Los abyu llevaban sal desde las minas hasta los valles.",
+    "referencias": "Animales clave en el comercio interregional prehispánico y colonial."
+  },
+  {
+    "palabra": "ABYUN",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Ávión. Cf. iruplanu, ayruplanu.",
+    "ejemplo": "Los niños corrían para ver pasar al abyun sobre el pueblo.",
+    "referencias": "Neologismo para tecnología moderna en contextos rurales."
+  },
+  {
+    "palabra": "ACHAW",
+    "origen": "",
+    "categoria": "interj.",
+    "definicion": "¡Qué calor! Cf. achachaw.",
+    "ejemplo": "¡Achaw! ¡Manam punchawpiqa trabajayta atinichu! (¡Qué calor! ¡No puedo trabajar al mediodía!).",
+    "referencias": "Expresión frecuente en zonas desérticas o valles cálidos."
+  },
+  {
+    "palabra": "ACHACHAW",
+    "origen": "",
+    "categoria": "interj.",
+    "definicion": "¡Qué calor! Cf. achaw.",
+    "ejemplo": "¡Achachaw! ¡Unayña chiri kanqa! (¡Qué calor! ¡Pronto hará frío!).",
+    "referencias": "Variante enfática de 'achaw', usada en climas extremos."
+  },
+  {
+    "palabra": "ACHICHIN",
+    "origen": "",
+    "categoria": "interj.",
+    "definicion": "¡Qué miedo! Cf. chichín.",
+    "ejemplo": "¡Achichin! ¡Chay macháy asustawan! (¡Qué miedo! ¡Ese murciélago me asustó!).",
+    "referencias": "Onomatopéyico; relacionado con cuentos tradicionales de terror."
+  },
+  {
+    "palabra": "ACHIK",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Claridad, resplandor.",
+    "ejemplo": "Achik lluqsiyta qallariy (Empieza a amanecer).",
+    "referencias": "Concepto vinculado a divinidades solares (Inti) en cosmovisión andina."
+  },
+  {
+    "palabra": "ACHIKYAKUY",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Alumbrarse.",
+    "ejemplo": "Achikyakuy lámparawan (Ilumínate con la lámpara).",
+    "referencias": "Verbo técnico para uso de fuentes lumínicas artificiales."
+  },
+  {
+    "palabra": "ACHIKYAY",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Alumbrar, alborear.",
+    "ejemplo": "Punchaw achikyayta qallariy (El día comienza a clarear).",
+    "referencias": "Usado en contextos poéticos o narrativas sobre el amanecer."
+  },
+  {
+    "palabra": "ATRKU",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Leña muy menuda.",
+    "ejemplo": "Atrku apamuy, chaywan kuchuyta ruwasun (Trae leña menuda, con eso haremos la cocina).",
+    "referencias": "Utilizado comúnmente en contextos rurales andinos donde se emplea este tipo de leña para encender fuegos pequeños o para iniciar fogatas."
+  },
+  {
+    "palabra": "ATRPINA",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Mate usado que se emplea para sacar la cancha.",
+    "ejemplo": "Atrpinawan canchaqa hurq’asaq (Sacaré la cancha con el mate usado).",
+    "referencias": "Instrumento doméstico reutilizado, típico en la cocina tradicional para manipular alimentos como la cancha (maíz tostado)."
+  },
+  {
+    "palabra": "ATRPIY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Rascar o arañar cualquier superficie; rasquetear; escarbar.",
+    "ejemplo": "Atrpiy qarata qaraykunapaq (Rasca la olla para limpiarla).",
+    "referencias": "Verbo usado en contextos domésticos y agrícolas (preparación de utensilios)."
+  },
+  {
+    "palabra": "ADUBI",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Adobe.",
+    "ejemplo": "Adubiwan wasikunata ruwanku (Construyen casas con adobe).",
+    "referencias": "Técnica de construcción colonial que persiste en arquitectura tradicional."
+  },
+  {
+    "palabra": "ACHKA",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "Harto, mucho.",
+    "ejemplo": "Achka mikhuytam munani (Quiero comer mucho).",
+    "referencias": "Adjetivo cuantitativo esencial en diálogos cotidianos."
+  },
+  {
+    "palabra": "AGUSTU",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Agosto.",
+    "ejemplo": "Agustupi pawkar raymim (En agosto es la fiesta del Pawkar Raymi).",
+    "referencias": "Mes asociado a celebraciones agrícolas prehispánicas."
+  },
+  {
+    "palabra": "AWANTAY",
+    "origen": "del esp.",
+    "categoria": "tr.",
+    "definicion": "Aguantar, soportar.",
+    "ejemplo": "Awantay llank'ayta (Aguanta el trabajo).",
+    "referencias": "Verbo que refleja valores culturales de resiliencia."
+  },
+  {
+    "palabra": "AKAW",
+    "origen": "",
+    "categoria": "interj.",
+    "definicion": "¡Qué lástima, qué pena! Cf. akakaw.",
+    "ejemplo": "¡Akaq wawqa! ¡Wañurqan! (¡Qué pena, hermano! ¡Murió!).",
+    "referencias": "Expresión de duelo o solidaridad en comunidades."
+  },
+  {
+    "palabra": "AKAKAW",
+    "origen": "",
+    "categoria": "interj.",
+    "definicion": "¡Qué lástima, qué pena! Cf. akaw.",
+    "ejemplo": "¡Akakaw! ¡Chay alquqa wañurqan! (¡Qué lástima! ¡Ese perro murió!).",
+    "referencias": "Variante enfática de 'akaw', usada en situaciones trágicas."
+  },
+  {
+    "palabra": "AKRAY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Escoger.",
+    "ejemplo": "Akray allin papakunata (Escoge las buenas papas).",
+    "referencias": "Verbo clave en procesos agrícolas (selección de semillas)."
+  },
+  {
+    "palabra": "AKSHU",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Papa. ¶ Fig. testículo.",
+    "ejemplo": "Akshu mikhuytam munani (Quiero comer papa).",
+    "referencias": "Cultivo sagrado en los Andes; símbolo de fertilidad."
+  },
+  {
+    "palabra": "AKSHUPIKA",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Picante de papa.",
+    "ejemplo": "Akshupikaqa sumaq mikhuymi (El picante de papa es un manjar).",
+    "referencias": "Plato tradicional que combina productos nativos (ají, papa)."
+  },
+  {
+    "palabra": "AKSHUSHILYA",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Variedad de papa de superficie plomiza, interior azul.",
+    "ejemplo": "Akshushilyawan sumaq waqachu (Con akshushilya se hace buena waqachi).",
+    "referencias": "Variedad nativa valorada por su color y propiedades nutricionales."
+  },
+  {
+    "palabra": "AKTUKUY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Masticar; mover los maxilares para triturar.",
+    "ejemplo": "Aktukuy allinta mikhuytam (Mastica bien la comida).",
+    "referencias": "Verbo relacionado con prácticas alimentarias saludables."
+  },
+  {
+    "palabra": "AKTUY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Tomar algo con los dientes para triturarlo; masticar sólidos.",
+    "ejemplo": "Aktuy ch'akichata (Mastica el charqui).",
+    "referencias": "Usado para alimentos duros como carne seca o tubérculos crudos."
+  },
+  {
+    "palabra": "AKU",
+    "origen": "",
+    "categoria": "interj.",
+    "definicion": "¡Vamos!",
+    "ejemplo": "¡Aku! ¡Ñuqanchik purinayá! (¡Vamos! ¡Vayámonos ya!).",
+    "referencias": "Interjección de motivación o urgencia."
+  },
+  {
+    "palabra": "ALA",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Ala; pluma.",
+    "ejemplo": "Ala pisqupa (Ala de pájaro).",
+    "referencias": "Término adoptado para describir anatomía animal."
+  },
+  {
+    "palabra": "ALABAY",
+    "origen": "del esp. alabar",
+    "categoria": "tr.",
+    "definicion": "Alabar, elogiar.",
+    "ejemplo": "Alabay sumaq warmita (Alaba a la bella mujer).",
+    "referencias": "Verbo usado en contextos religiosos y sociales."
+  },
+  {
+    "palabra": "ALA-RASTRA",
+    "origen": "del esp. ala y arrastrar",
+    "categoria": "s.",
+    "definicion": "Alicáido; ala bajada de la gallina.",
+    "ejemplo": "Ala-rastra gallinapa (El ala caída de la gallina).",
+    "referencias": "Término descriptivo en avicultura tradicional."
+  },
+  {
+    "palabra": "ALALAW",
+    "origen": "",
+    "categoria": "interj.",
+    "definicion": "¡Qué frío!",
+    "ejemplo": "¡Alalaw! ¡Chirimi kay tuta! (¡Qué frío! ¡Esta noche está helada!).",
+    "referencias": "Onomatopéyico; usado en zonas altoandinas."
+  },
+  {
+    "palabra": "ALBIJU",
+    "origen": "del esp. arveja",
+    "categoria": "s.",
+    "definicion": "Arveja. Cf. albirjas.",
+    "ejemplo": "Albijuwan lawakunata ruwanku (Preparan sopas con arvejas).",
+    "referencias": "Variante dialectal (POR) para esta legumbre introducida en la colonia."
+  },
+  {
+    "palabra": "ALBIRJAS",
+    "origen": "del esp. arveja",
+    "categoria": "s.",
+    "definicion": "Arveja. Cf. albiju.",
+    "ejemplo": "Albirjaswan lawata ruwanku (Hacen sopa con arvejas).",
+    "referencias": "Legumbre europea integrada a la gastronomía local."
+  },
+  {
+    "palabra": "ALBURUTU",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Alboroto, bulla. Cf. bulla.",
+    "ejemplo": "Wawakuna alburututa ruwanku (Los niños hacen alboroto).",
+    "referencias": "Término para describir festividades o reuniones bulliciosas."
+  },
+  {
+    "palabra": "ALFALFA",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Alfalfa.",
+    "ejemplo": "Alfalfata michikunapaq puquchinku (Cultivan alfalfa para el ganado).",
+    "referencias": "Planta forrajera introducida en la colonia."
+  },
+  {
+    "palabra": "ALFURJA",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Alforja. Cf. Alpruja, alpurja.",
+    "ejemplo": "Alfurjapi mikhuytam aparku (Llevan comida en la alforja).",
+    "referencias": "Utensilio esencial para viajes y transporte de productos."
+  },
+  {
+    "palabra": "ALMA",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Espíritu, cadáver; fantasma. Cf. aya.",
+    "ejemplo": "Alman kawsay (La vida del alma).",
+    "referencias": "Concepto sincrético entre creencias indígenas y cristianas."
+  },
+  {
+    "palabra": "ALMURSU",
+    "origen": "del esp. almuerzo",
+    "categoria": "s.",
+    "definicion": "Comida de la mañana. En CHET, comida de mañana o mediodía. Cf. kaldu.",
+    "ejemplo": "Almursuta mikhuypaq (Para comer el almuerzo).",
+    "referencias": "Adaptación de horarios alimenticios coloniales."
+  },
+  {
+    "palabra": "ALPURJA",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Alforja. Cf. alpruja, alturja.",
+    "ejemplo": "Alpurjapi imakunatam apanku (Llevan cosas en la alforja).",
+    "referencias": "Variante regional del término 'alforja'."
+  },
+      {
+      "palabra": "ALPRUJA",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Alforja. Cf. alfurja, alpurja.",
+      "ejemplo": "Alprujapi mikhuytam apanku (Llevan comida en la alforja).",
+      "referencias": "Variante dialectal de 'alforja', usada en zonas rurales para transporte."
+    },
+    {
+      "palabra": "ALSAY",
+      "origen": "del esp.",
+      "categoria": "tr.",
+      "definicion": "Alzar.",
+      "ejemplo": "Alsay q'epita (Alza el bulto).",
+      "referencias": "Verbo común en contextos de construcción o carga de objetos pesados."
+    },
+    {
+      "palabra": "ALTU",
+      "origen": "del esp.",
+      "categoria": "s. adj.",
+      "definicion": "Alto; cima; cielo; segundo piso de la casa. Cf. tiraw.",
+      "ejemplo": "Altu wasipi almacenanku (Almacenan en el segundo piso de la casa).",
+      "referencias": "Término espacial clave en arquitectura andina."
+    },
+    {
+      "palabra": "ALTU-PUNKU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Puerta de la segunda planta de la casa.",
+      "ejemplo": "Altu-punku pataman yaykunku (Entran por la puerta del segundo piso).",
+      "referencias": "Elemento arquitectónico en viviendas tradicionales de dos niveles."
+    },
+    {
+      "palabra": "ALLAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Cavar; cosechar tubérculos cavando.",
+      "ejemplo": "Allay papakunata (Cava las papas).",
+      "referencias": "Técnica agrícola tradicional para cosecha de tubérculos."
+    },
+    {
+      "palabra": "ALLI",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Bien.",
+      "ejemplo": "Alli llamk'ay (Trabaja bien).",
+      "referencias": "Adverbio fundamental en enseñanzas morales y técnicas."
+    },
+    {
+      "palabra": "ALLICHAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Ordenar; instalar.",
+      "ejemplo": "Allichay wasita (Ordena la casa).",
+      "referencias": "Verbo usado en preparación de espacios para ceremonias."
+    },
+    {
+      "palabra": "ALLIN",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Bueno.",
+      "ejemplo": "Kay allin trakra (Esta buena chacra).",
+      "referencias": "Adjetivo central en valoraciones éticas y prácticas."
+    },
+    {
+      "palabra": "ALLIN-LADU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Derecha (dirección).",
+      "ejemplo": "Allin-laduman riy (Ve hacia la derecha).",
+      "referencias": "Término de orientación espacial en caminos o construcciones."
+    },
+    {
+      "palabra": "ALLIN-MAKI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Mano derecha.",
+      "ejemplo": "Allin-makiwan qillqay (Escribe con la mano derecha).",
+      "referencias": "En ceremonias, la mano derecha tiene significado ritual."
+    },
+    {
+      "palabra": "ALLIMANTA",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Despacio; con cuidado.",
+      "ejemplo": "Allimanta puriy (Camina despacio).",
+      "referencias": "Enseñanza tradicional para evitar accidentes en terrenos irregulares."
+    },
+    {
+      "palabra": "ALLIP",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "De verdad, verdaderamente.",
+      "ejemplo": "Allip rimay (Habla con verdad).",
+      "referencias": "Valor central en la ética quechua (ama llulla, no mentir)."
+    },
+    {
+      "palabra": "ALLOO",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Perro.",
+      "ejemplo": "Alloo wasita waqachkan (El perro cuida la casa).",
+      "referencias": "Animal doméstico con roles de protección y compañía."
+    },
+    {
+      "palabra": "ALLPA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Tierra; polvo.",
+      "ejemplo": "Allpa saksam (La tierra es fértil).",
+      "referencias": "Concepto sagrado (Pachamama) en cosmovisión andina."
+    },
+    {
+      "palabra": "AMA",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "No (prohibitivo).",
+      "ejemplo": "Ama llullaychu (No mientas).",
+      "referencias": "Partícula clave en los principios morales quechuas (ama suwa, ama llulla, ama qella)."
+    },
+    {
+      "palabra": "AMAKIVAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Estremecerse, balancear.",
+      "ejemplo": "Amakivay wayrawan (Se estremece con el viento).",
+      "referencias": "Verbo usado para movimientos de plantas, animales o personas."
+    },
+    {
+      "palabra": "AMARU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Hierba medicinal con forma de serpiente.",
+      "ejemplo": "Amaruwan hampinku (Curan con la hierba amaru).",
+      "referencias": "Planta con simbolismo mítico (Amaru: serpiente sagrada)."
+    },
+    {
+      "palabra": "AMIGU",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Amigo. Cf. yanasa.",
+      "ejemplo": "Amiguwan purinku (Van juntos con el amigo).",
+      "referencias": "Término de relación social adoptado en contextos comunitarios."
+    },
+    {
+      "palabra": "AMITU",
+      "origen": "del esp. amo",
+      "categoria": "s.",
+      "definicion": "Señor, Dios; sacerdote; patrón. Cf. patrun, kura, yaya.",
+      "ejemplo": "Amitupaq llamk'anku (Trabajan para el patrón).",
+      "referencias": "Término colonial para figuras de autoridad religiosa o terratenientes."
+    },
+    {
+      "palabra": "AMPATU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Sapo. Cf. sapu.",
+      "ejemplo": "Ampatu qochapi kawsan (El sapo vive en la laguna).",
+      "referencias": "Animal asociado a lluvias en tradiciones agrícolas."
+    },
+    {
+      "palabra": "AMPI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Remedio.",
+      "ejemplo": "Ampi hampikunaykipaq (Remedio para curarte).",
+      "referencias": "Concepto central en medicina tradicional (hampiy)."
+    },
+    {
+      "palabra": "AMPIDOR",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Curandero, médico.",
+      "ejemplo": "Ampidor hampunku (El curandero lo cura).",
+      "referencias": "Practicante de la medicina ancestral (hampikamayuq)."
+    },
+    {
+      "palabra": "AMPIKIJO",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "El que cura; persona que cura.",
+      "ejemplo": "Ampikijo sumaq hampikun (El que cura sana bien).",
+      "referencias": "Término genérico para sanadores en comunidades."
+    },
+    {
+      "palabra": "AMPIV",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Curar, sanar.",
+      "ejemplo": "Ampiv unquykita (Cura tu enfermedad).",
+      "referencias": "Verbo clave en prácticas de salud tradicionales."
+    },
+    {
+      "palabra": "AMPU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Aporque de maíz.",
+      "ejemplo": "Ampu saraman (Aporque para el maíz).",
+      "referencias": "Técnica agrícola para proteger cultivos de heladas."
+    },
+    {
+      "palabra": "AMPULLKU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET. Fruto de la papa. Cf. luntu.",
+      "ejemplo": "Ampullku papapa (Fruto de la planta de papa).",
+      "referencias": "Parte reproductiva de la papa en terminología agrícola local."
+    }
+  ,
+  {
+
+    "palabra": "AMPULLKUKUY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Frutear; dar frutos (ampullku).",
+    "ejemplo": "Papa ampullkukunqa allin pachapi (Las papas frutean en buen tiempo).",
+    "referencias": "Término agrícola específico para el ciclo reproductivo de la papa."
+  },
+  {
+    "palabra": "AMPUY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Aporcar. Amontonar tierra alrededor de la raíz de la planta. Cf. kutipay.",
+    "ejemplo": "Ampuy sarata (Aporca el maíz).",
+    "referencias": "Técnica para fortalecer cultivos ante heladas."
+  },
+  {
+    "palabra": "AMSA",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Primeros momentos de la noche; crepúsculo.",
+    "ejemplo": "Amsapi purikuyqa sasachakuy (Caminar al anochecer es peligroso).",
+    "referencias": "Concepto temporal clave en la organización del trabajo diario."
+  },
+  {
+    "palabra": "AMSAY",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Empezar a oscurecerse; anochecer.",
+    "ejemplo": "Amsayta qallariptin, wasiman kutikuy (Cuando empieza a anochecer, regresa a casa).",
+    "referencias": "Verbo que marca transiciones en rutinas comunitarias."
+  },
+  {
+    "palabra": "AMSAYAY",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Perder la visión; opacarse la luz.",
+    "ejemplo": "Ñawi amsayayta qallariptin, descansay (Cuando los ojos empiezan a oscurecerse, descansa).",
+    "referencias": "Usado tanto para ceguera temporal como para fatiga ocular."
+  },
+  {
+    "palabra": "AMUKLLU",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "POR. Papera. ¶ CHET. Forúnculo en articulaciones.",
+    "ejemplo": "Amukllu nanawan (Duele por el forúnculo).",
+    "referencias": "Enfermedad tratada con hierbas como la 'chiric sanango'."
+  },
+  {
+    "palabra": "AMURAY",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Tener algo metido en la boca.",
+    "ejemplo": "Wawa amuraykun chupunta (El bebé tiene el chupón en la boca).",
+    "referencias": "Acción común en niños o al masticar coca (pijchu)."
+  },
+  {
+    "palabra": "AMUY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Llevar algo a la boca.",
+    "ejemplo": "Amuy mikhuytam (Lleva comida a la boca).",
+    "referencias": "Verbo usado en contextos alimenticios o rituales."
+  },
+  {
+    "palabra": "ANANAKUY",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Canción entonada durante una jornada.",
+    "ejemplo": "Ananakuyta takinku llamk'aypi (Cantan ananakuy mientras trabajan).",
+    "referencias": "Género musical para armonizar tareas colectivas (ayni)."
+  },
+  {
+    "palabra": "ANAQ",
+    "origen": "",
+    "categoria": "adv.",
+    "definicion": "Arriba.",
+    "ejemplo": "Anaq patapi kachkan (Está arriba en el cerro).",
+    "referencias": "Término espacial clave en descripciones geográficas."
+  },
+  {
+    "palabra": "ANAKU",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Falda negra que se usa sobre el fondo.",
+    "ejemplo": "Anaku warmi churinta sumaqmi (La falda negra de la mujer es hermosa).",
+    "referencias": "Prenda tradicional femenina en comunidades quechuas."
+  },
+  {
+    "palabra": "ANAYLLU",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Hormiga. Cf. añaylu.",
+    "ejemplo": "Anayllukuna imakunata apanku (Las hormigas llevan cosas).",
+    "referencias": "Insecto símbolo de trabajo comunitario en mitología andina."
+  },
+  {
+    "palabra": "ANCHA",
+    "origen": "",
+    "categoria": "pre. adj.",
+    "definicion": "Muy; mucho.",
+    "ejemplo": "Kay ancha atun wasi (Esta casa es muy grande).",
+    "referencias": "Modificador de intensidad en frases descriptivas."
+  },
+  {
+    "palabra": "ANCHA-LISU",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "POR. Orgulloso. ¶ CHET. Chistoso, alegre.",
+    "ejemplo": "Ancha-lisu warmiqa kusikuywan (La mujer alegre está contenta).",
+    "referencias": "Término con connotaciones positivas o negativas según contexto."
+  },
+  {
+    "palabra": "ANCHUY",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Hacerse a un lado; dejar paso.",
+    "ejemplo": "Anchuy puriqkunapaq (Hazte a un lado para los caminantes).",
+    "referencias": "Norma de cortesía en senderos estrechos."
+  },
+  {
+    "palabra": "ANGIL",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Ángel; guitarra (en lenguaje de macanistas).",
+    "ejemplo": "Angil takiqmi (Es un cantante con guitarra).",
+    "referencias": "Sincretismo entre iconografía religiosa y arte musical."
+  },
+  {
+    "palabra": "ANILLU",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Anillo, sortija. Cf. surtija.",
+    "ejemplo": "Anillu qoriwan ruwasqa (Anillo hecho de oro).",
+    "referencias": "Objeto de valor en matrimonios tradicionales."
+  },
+  {
+    "palabra": "ANIMAL",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Animal.",
+    "ejemplo": "Animalkunata michinku (Pastorean a los animales).",
+    "referencias": "Término genérico para fauna doméstica o silvestre."
+  },
+  {
+    "palabra": "ANKU",
+    "origen": "",
+    "categoria": "s. adj.",
+    "definicion": "Nervio, tendón; duro.",
+    "ejemplo": "Anku aycha (Carne dura).",
+    "referencias": "Término anatómico y descriptor textural."
+  },
+  {
+    "palabra": "ANKUNA",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Nervios; parte nervuda de músculos. Cf. fithu.",
+    "ejemplo": "Ankuna nanawan (Me duelen los nervios).",
+    "referencias": "Concepto médico tradicional vinculado a dolores."
+  },
+  {
+    "palabra": "ANQALLAY",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Tenderse de espaldas.",
+    "ejemplo": "Anqallay patapi (Túmbate de espaldas en el suelo).",
+    "referencias": "Posición para descanso o rituales de sanación."
+  },
+  {
+    "palabra": "ANRIRAY",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "CHET. Abrir la boca.",
+    "ejemplo": "Anriray hampikuyta munaptiyki (Abre la boca si quieres curarte).",
+    "referencias": "Término usado en contextos médicos o al comer."
+  },
+  {
+    "palabra": "ANSISYAY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Vomitar, arrojar. Cf. ansyasyay.",
+    "ejemplo": "Ansisyay unquypi (Vomita estando enfermo).",
+    "referencias": "Verbo para malestares gastrointestinales."
+  },
+  {
+    "palabra": "ANSYAS",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Náuseas; vómito.",
+    "ejemplo": "Ansyaswan nanayta sientikuni (Siento dolor con náuseas).",
+    "referencias": "Término médico usado en contextos de malestar estomacal o intoxicación."
+  },
+  {
+    "palabra": "ANSYASYAY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Vomitar, arrojar. Cf. ansisyay.",
+    "ejemplo": "Warmiqa ansyasyarqan unquypi (La mujer vomitó estando enferma).",
+    "referencias": "Verbo descriptivo en diagnósticos tradicionales."
+  },
+  {
+    "palabra": "ANUTA",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "Húmedo (aplicado a cereales).",
+    "ejemplo": "Anuta sarata ama mikhuychu (No comas maíz húmedo).",
+    "referencias": "Adjetivo clave en conservación de granos almacenados."
+  },
+  {
+    "palabra": "ANYAY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Reñir; llamar la atención; discutir.",
+    "ejemplo": "Taytaqa wawanchikta anyawan (El padre riñe a nuestro hijo).",
+    "referencias": "Verbo usado en contextos familiares o educativos."
+  },
+  {
+    "palabra": "AÑAW",
+    "origen": "",
+    "categoria": "interj.",
+    "definicion": "¡Qué hermoso, qué lindo! Cf. añañaw.",
+    "ejemplo": "¡Añaw! ¡Kay sumaq warmi! (¡Qué linda! ¡Esta hermosa mujer!).",
+    "referencias": "Interjección de admiración estética común en halagos."
+  },
+  {
+    "palabra": "AÑAÑAW",
+    "origen": "",
+    "categoria": "interj.",
+    "definicion": "¡Qué lindo, qué hermoso! Cf. añaw.",
+    "ejemplo": "¡Añañaw! ¡Kay wasi sumaqmi! (¡Qué hermoso! ¡Esta casa es bonita!).",
+    "referencias": "Variante enfática de 'araw'."
+  },
+  {
+    "palabra": "AÑARA",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "POR. Araña. Cf. araña.",
+    "ejemplo": "Arañaqa wasipi yachan (La araña teje en la casa).",
+    "referencias": "Término para arácnidos en zonas rurales (dialecto POR)."
+  },
+  {
+    "palabra": "AÑAS",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Zorrillo.",
+    "ejemplo": "Añasqa asninta michirqan (El zorrillo lanzó su olor).",
+    "referencias": "Animal con significado simbólico en relatos tradicionales."
+  },
+  {
+    "palabra": "AÑAYLU",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Hormiga. Cf. anayllu.",
+    "ejemplo": "Añaylukuna imakunata apanku (Las hormigas llevan cosas).",
+    "referencias": "Insecto asociado a perseverancia en sabiduría andina."
+  },
+  {
+    "palabra": "AÑILINA",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Anilina.",
+    "ejemplo": "Añilinawan pachakunata tintinku (Tiñen ropas con anilina).",
+    "referencias": "Colorante industrial usado en artesanías textiles."
+  },
+  {
+    "palabra": "APAMUY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Traer.",
+    "ejemplo": "Apamuy yakuwan (Trae agua).",
+    "referencias": "Verbo esencial en tareas domésticas o agrícolas."
+  },
+  {
+    "palabra": "APARIY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Cargar o llevar cargado en la espalda.",
+    "ejemplo": "Apariy q’epita wawata (Carga al bebé en la espalda).",
+    "referencias": "Técnica tradicional de transporte usando aguayos o mantas."
+  },
+  {
+    "palabra": "APAY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Llevar, transportar.",
+    "ejemplo": "Apay chakiman herramientas (Lleva herramientas al campo).",
+    "referencias": "Verbo genérico para movimiento de objetos o personas."
+  },
+  {
+    "palabra": "API",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Mazamorra.",
+    "ejemplo": "Apiqa ch’uñuwan ruwasqa (La mazamorra está hecha de chuño).",
+    "referencias": "Bebida caliente ritual en festividades como el Inti Raymi."
+  },
+  {
+    "palabra": "APURKAY",
+    "origen": "del esp. aporcar",
+    "categoria": "tr.",
+    "definicion": "Echar tierra alrededor de la planta (papa, olluco, oca). Cf. qoray.",
+    "ejemplo": "Apurkay papakunata (Aporca las plantas de papa).",
+    "referencias": "Técnica agrícola para proteger cultivos del frío."
+  },
+  {
+    "palabra": "AQA",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Sopa de choclo.",
+    "ejemplo": "Aqa mikhuypi sumaq (La sopa de choclo es deliciosa).",
+    "referencias": "Plato tradicional con maíz tierno, símbolo de cosecha."
+  },
+  {
+    "palabra": "AQAS",
+    "origen": "",
+    "categoria": "adj.",
+    "definicion": "Amoratado (piel); verdeado (tubérculos).",
+    "ejemplo": "Aqas kiruqa nanawan (El diente amoratado duele).",
+    "referencias": "Término descriptivo en diagnósticos médicos tradicionales."
+  },
+  {
+    "palabra": "AQASYAY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Amoratar.",
+    "ejemplo": "Aqasyay makiyki chiriwan (Se te amorata la mano con el frío).",
+    "referencias": "Proceso fisiológico observado en climas gélidos."
+  },
+  {
+    "palabra": "AQCHA",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Pelo; pelo del choclo.",
+    "ejemplo": "Aqcha saraqa allinmi (Los pelos del choclo están buenos).",
+    "referencias": "Parte del maíz usada en infusiones medicinales."
+  },
+  {
+    "palabra": "AQCHIV",
+    "origen": "",
+    "categoria": "intr.",
+    "definicion": "Estornudar.",
+    "ejemplo": "¡Aqchiv! ¡Unquymi kachkan! (¡Estornudo! ¡Debe estar enfermo!).",
+    "referencias": "Sonido onomatopéyico vinculado a presagios en algunas comunidades."
+  },
+  {
+    "palabra": "AQO",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Arena.",
+    "ejemplo": "Aqo patapi puñukuy (Duerme sobre la arena).",
+    "referencias": "Material usado en construcción y artesanías."
+  },
+  {
+    "palabra": "AQTUNA",
+    "origen": "",
+    "categoria": "s.",
+    "definicion": "Migaja.",
+    "ejemplo": "Aqtunakunata ama urmaychu (No dejes caer migajas).",
+    "referencias": "Término para restos de pan o alimentos secos."
+  },
+  {
+    "palabra": "ARADU",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Arado.",
+    "ejemplo": "Araduwan chakrata llamk’achinku (Trabajan la chacra con arado).",
+    "referencias": "Herramienta introducida en la colonia para agricultura."
+  },
+  {
+    "palabra": "ARAÑA",
+    "origen": "del esp.",
+    "categoria": "s.",
+    "definicion": "Araña. Cf. añara.",
+    "ejemplo": "Arañaqa rantimpim kachkan (La araña está en el rincón).",
+    "referencias": "Variante dialectal para arácnidos."
+  },
+  {
+    "palabra": "ARI",
+    "origen": "",
+    "categoria": "adv.",
+    "definicion": "Sí (afirmación).",
+    "ejemplo": "¿Mikhuynkichu? — Ari (¿Vas a comer? — Sí).",
+    "referencias": "Partícula fundamental en diálogos cotidianos."
+  },
+  {
+    "palabra": "ARKAY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Atajar; bloquear algo para evitar su caída.",
+    "ejemplo": "Arkay wawaqa urmayta (Ataja al bebé para que no caiga).",
+    "referencias": "Verbo usado en contextos de protección física."
+  },
+  {
+    "palabra": "ARMAKUY",
+    "origen": "",
+    "categoria": "tr.",
+    "definicion": "Bañarse; cubrirse el cuerpo de algo espeso (barro).",
+    "ejemplo": "Armakuy allpawan (Báñate con barro).",
+    "referencias": "Práctica terapéutica en medicina tradicional."
+  }
+  ,
+    {
+      "palabra": "ARMAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Bañar (a otro) sumergiendo en agua. Cf. bañay.",
+      "ejemplo": "Armay wawata yakuwan (Baña al bebé con agua).",
+      "referencias": "Práctica de higiene y rituales de purificación en ríos sagrados."
+    },
+    {
+      "palabra": "ARNIRU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Cedazo para cernir molidos.",
+      "ejemplo": "Arniruwan harinata k'irunku (Ciernen la harina con el cedazo).",
+      "referencias": "Herramienta esencial en la preparación de alimentos como la harina de maíz."
+    },
+    {
+      "palabra": "ARRANCHADURA",
+      "origen": "del esp.",
+      "categoria": "adj.",
+      "definicion": "Mujer seductora que convive con varios hombres; ramera. Cf. ranchadura, mañusa ninasiki.",
+      "ejemplo": "Payqa arranchaduram (Ella es una mujer ardiente).",
+      "referencias": "Término cargado de juicios morales coloniales sobre sexualidad femenina."
+    },
+    {
+      "palabra": "ARRICHAPISHOO",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Pájaro silvestre.",
+      "ejemplo": "Arrichapishoo takiqmi (El arrichapishoo canta).",
+      "referencias": "Ave asociada a presagios en algunas comunidades andinas."
+    },
+    {
+      "palabra": "ARRUNJADU",
+      "origen": "del esp. arrojar ?",
+      "categoria": "adj.",
+      "definicion": "Audaz, intrépido.",
+      "ejemplo": "Arrunjadu runam kay llaqtapi (Este hombre es el más audaz del pueblo).",
+      "referencias": "Atributo valorado en líderes comunales o guerreros tradicionales."
+    },
+    {
+      "palabra": "ARRUNJAY",
+      "origen": "del esp. arrojar ?",
+      "categoria": "tr.",
+      "definicion": "Sembrar al voleo; arremeter. Cf. shikway.",
+      "ejemplo": "Arrunjay sara taqta (Arroja las semillas de maíz).",
+      "referencias": "Técnica agrícola para cultivos en laderas empinadas."
+    },
+    {
+      "palabra": "ARRUS",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Arroz.",
+      "ejemplo": "Arruswan mikhunata ruwanku (Preparan comida con arroz).",
+      "referencias": "Cereal introducido en la colonia, ahora parte de la dieta diaria."
+    },
+    {
+      "palabra": "ASASAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Jadear, tener sed.",
+      "ejemplo": "Asasaymi yakuta munani (Jadeo, quiero agua).",
+      "referencias": "Verbo usado en contextos de esfuerzo físico o calor extremo."
+    },
+    {
+      "palabra": "ASI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Risa.",
+      "ejemplo": "Asi sumaqmi (La risa es hermosa).",
+      "referencias": "Manifestación de alegría en festividades como el Carnaval Andino."
+    },
+    {
+      "palabra": "ASIKUY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Reír.",
+      "ejemplo": "Asikuy rimayniywan (Ríe con mi chiste).",
+      "referencias": "Acto comunal que fortalece vínculos sociales."
+    },
+    {
+      "palabra": "ASIPTAY",
+      "origen": "del esp.",
+      "categoria": "tr.",
+      "definicion": "Aceptar.",
+      "ejemplo": "Asiptay qunqayki (Acepta mi regalo).",
+      "referencias": "Gestos clave en intercambios recíprocos (ayni)."
+    },
+    {
+      "palabra": "ASTILLA",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Astilla.",
+      "ejemplo": "Astilla makiman urmarqan (Una astilla se clavó en su mano).",
+      "referencias": "Riesgo común al trabajar con madera en construcciones."
+    },
+    {
+      "palabra": "ASUKAR",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Azúcar.",
+      "ejemplo": "Asukarwan apiqa misk'im (La mazamorra con azúcar es dulce).",
+      "referencias": "Producto colonial que reemplazó a la miel de caña nativa."
+    },
+    {
+      "palabra": "ASUL",
+      "origen": "del esp.",
+      "categoria": "adj.",
+      "definicion": "Azul.",
+      "ejemplo": "Asul pacham (Vestido azul).",
+      "referencias": "Color asociado a ciertas deidades andinas como Illapa (rayo)."
+    },
+    {
+      "palabra": "ASULCHUSHPI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Mosca grande que se posa en la carne.",
+      "ejemplo": "Asulchushpi aychaman chayarqan (La mosca azul llegó a la carne).",
+      "referencias": "Insecto considerado señal de mal augurio en algunas zonas."
+    },
+    {
+      "palabra": "ASUTI",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Azote, látigo.",
+      "ejemplo": "Asutiwan wañuchinku (Mataron con el látigo).",
+      "referencias": "Símbolo de castigo durante la época colonial."
+    },
+    {
+      "palabra": "ASUTIY",
+      "origen": "del esp.",
+      "categoria": "tr.",
+      "definicion": "Azotar.",
+      "ejemplo": "Ama asutiy churaw (No azotes al ganado).",
+      "referencias": "Práctica asociada a dominación y resistencia cultural."
+    },
+    {
+      "palabra": "ASWA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Chicha (bebida alcohólica de maíz).",
+      "ejemplo": "Aswata upyanku raymipi (Beben chicha en la fiesta).",
+      "referencias": "Bebida ritual en celebraciones como Inti Raymi y matrimonios."
+    },
+    {
+      "palabra": "ASWAKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Preparar chicha.",
+      "ejemplo": "Aswakuy sumaqta (Prepara bien la chicha).",
+      "referencias": "Proceso fermentativo que puede durar semanas, con técnicas ancestrales."
+    },
+    {
+      "palabra": "ASWALIKIDU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Alcoholizado.",
+      "ejemplo": "Aswalikidu runam (Hombre alcoholizado).",
+      "referencias": "Problema social derivado del consumo excesivo en festividades."
+    },
+    {
+      "palabra": "ASHALA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Deshierba. Cf. tirapa.",
+      "ejemplo": "Ashala saraman (Deshierba el maizal).",
+      "referencias": "Tarea agrícola realizada en luna menguante según tradiciones."
+    },
+    {
+      "palabra": "ASHALAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Desherbar (maíz, oca, etc.).",
+      "ejemplo": "Ashalay yaputa (Deshierba la parcela).",
+      "referencias": "Técnica para evitar competencia por nutrientes en cultivos."
+    },
+    {
+      "palabra": "ASHI",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Dicen que sí; es verdad.",
+      "ejemplo": "Ashi ninakuqkuna (Los que dicen que es verdad).",
+      "referencias": "Partícula usada en narraciones orales para validar información."
+    },
+    {
+      "palabra": "ASHITANA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Cosa que se traslada o carrea.",
+      "ejemplo": "Ashitana q'epim (Es un bulto para transportar).",
+      "referencias": "Objetos movilizados en caravanas de llamas (antiguo trueque)."
+    },
+    {
+      "palabra": "ASHITAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Carrear, trasladar.",
+      "ejemplo": "Ashitay rumikunata (Transporta las piedras).",
+      "referencias": "Actividad esencial en construcción de terrazas agrícolas (andenes)."
+    },
+    {
+      "palabra": "ASHLA",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Liviano; poco, pequeño.",
+      "ejemplo": "Ashla q'epi (Bulto liviano).",
+      "referencias": "Término para medir esfuerzo en trabajos comunales (minka)."
+    },
+    {
+      "palabra": "ASHLA-ASHLA",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Poco a poco.",
+      "ejemplo": "Ashla-ashla yachay (Aprende poco a poco).",
+      "referencias": "Filosofía andina de aprendizaje y paciencia (allin kawsay)."
+    },
+    {
+      "palabra": "ASHNAQ",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Lo que huele mal; mal olor.",
+      "ejemplo": "Ashnaq mikhuym (Comida con mal olor).",
+      "referencias": "Indicador de descomposición o peligro en alimentos."
+    },
+    {
+      "palabra": "ASHNAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Heder, oler mal; presentir algo.",
+      "ejemplo": "Ashnaq mikhuymi (La comida huele mal). / Ashnaqmi unquyta (Presento la enfermedad).",
+      "referencias": "Término usado tanto para olores desagradables como en percepciones intuitivas (en contextos rituales)."
+    },
+    {
+      "palabra": "ASHNU",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "POR. Asno. Cf. burru, trakiyog.",
+      "ejemplo": "Ashnuwan carga apanku (Llevan carga con el asno).",
+      "referencias": "Animal de carga introducido por los españoles, adaptado a zonas rurales."
+    },
+    {
+      "palabra": "ASHPHY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Rascarse la piel; rascarse con cuidado.",
+      "ejemplo": "Ashipy sirkanta (Rasca su espalda con cuidado).",
+      "referencias": "Acción común ante picaduras de insectos o irritaciones por plantas."
+    },
+    {
+      "palabra": "ASHUY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Quitarse de camino; moverse o trasladarse.",
+      "ejemplo": "Ashuq puriqkunapaq (Apártate para los caminantes).",
+      "referencias": "Norma de cortesía en senderos estrechos andinos."
+    },
+    {
+      "palabra": "ASHWAMPA",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Peor.",
+      "ejemplo": "Ashwampa unquy (Enfermedad que empeora).",
+      "referencias": "Término comparativo usado en diagnósticos médicos tradicionales."
+    },
+    {
+      "palabra": "ASHWAMPAYAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Empeorar.",
+      "ejemplo": "Ashwampayay nanayqa (El dolor está empeorando).",
+      "referencias": "Progresión de síntomas en enfermedades físicas o conflictos sociales."
+    },
+    {
+      "palabra": "ATALLKI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Alacrán.",
+      "ejemplo": "Atallkiqa manchaymi (El alacrán da miedo).",
+      "referencias": "Animal con simbolismo dual: peligro y propiedades medicinales en su veneno."
+    },
+    {
+      "palabra": "ATARICHIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Alzar; levantar a otro.",
+      "ejemplo": "Atarichiy wawata (Levanta al bebé).",
+      "referencias": "Acción de ayuda física o simbólica en trabajos comunales."
+    },
+    {
+      "palabra": "ATARIY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Levantarse; ponerse de pie.",
+      "ejemplo": "Atariy punchawta (Levántate al amanecer).",
+      "referencias": "Valor cultural asociado a la disciplina y respeto (ej. al saludar)."
+    },
+    {
+      "palabra": "ATATAY",
+      "origen": "",
+      "categoria": "interj.",
+      "definicion": "¡Qué asco, qué sucio!",
+      "ejemplo": "¡Atatay! Kay ima qhillami (¡Qué asco! Esto está sucio).",
+      "referencias": "Expresión de rechazo a contaminación o transgresiones morales."
+    },
+    {
+      "palabra": "ATIY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Poder.",
+      "ejemplo": "Atiymi ruwayta (Puedo hacerlo).",
+      "referencias": "Verbo que refleja capacidad física o permiso social."
+    },
+    {
+      "palabra": "ATIYPAQ",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Accesible.",
+      "ejemplo": "Atiyq wasi (Casa accesible).",
+      "referencias": "Concepto importante en diseño de viviendas para adultos mayores."
+    },
+    {
+      "palabra": "ATOQ",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Zorro. Cf. surru.",
+      "ejemplo": "Atoq mikuyta munawan (El zorro quiere comer).",
+      "referencias": "Animal astuto en mitos andinos, a la vez depredador de cultivos."
+    },
+    {
+      "palabra": "ATUN",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Grande, alto, largo.",
+      "ejemplo": "Atun mayu (Río grande). / Atun runa (Persona importante).",
+      "referencias": "Adjetivo para describir tamaño o estatus social."
+    },
+    {
+      "palabra": "ATUNDIDU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Dedo cordial. Cf. trawpididu, kurdyal.",
+      "ejemplo": "Atundiduwan qaway (Señala con el dedo cordial).",
+      "referencias": "En algunas comunidades, usarlo para señalar se considera grosero."
+    },
+    {
+      "palabra": "ATUNWASI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Habitación interior; pieza principal de la casa.",
+      "ejemplo": "Atunwasipi altarniyuq (En la sala principal hay un altar).",
+      "referencias": "Espacio sagrado en viviendas tradicionales para ceremonias familiares."
+    },
+    {
+      "palabra": "ATUTRAQ",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "El más grande dentro de un conjunto.",
+      "ejemplo": "Atutraq sara (La mazorca más grande).",
+      "referencias": "Término usado en agricultura para seleccionar semillas."
+    },
+    {
+      "palabra": "AWANA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Tejido.",
+      "ejemplo": "Awana sumaqmi (El tejido es hermoso).",
+      "referencias": "Arte textil con significados culturales en diseños y colores."
+    },
+    {
+      "palabra": "AWARYENTI",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Cañazo (licor fuerte de caña). Cf. kañasu, tragu, kupa, washpay.",
+      "ejemplo": "Awaryenti upyay (Bebe cañazo).",
+      "referencias": "Bebida alcohólica destilada, usada en rituales y festividades."
+    },
+    {
+      "palabra": "AWAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Tejer.",
+      "ejemplo": "Away ponchota (Teje un poncho).",
+      "referencias": "Saber ancestral transmitido por generaciones, especialmente entre mujeres."
+    },
+    {
+      "palabra": "AWGAY",
+      "origen": "del esp. ahogar",
+      "categoria": "intr.",
+      "definicion": "Ahogarse; obstruirse las vías respiratorias.",
+      "ejemplo": "Awgay yakupi (Se ahoga en el agua).",
+      "referencias": "Riesgo asociado a ríos o consumo de alimentos secos."
+    },
+    {
+      "palabra": "AWILA",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Abuela. Cf. chucha.",
+      "ejemplo": "Awila yachaqmi (La abuela es sabia).",
+      "referencias": "Figura matriarcal en la transmisión de tradiciones orales."
+    },
+    {
+      "palabra": "AWILU",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Abuelo. Cf. chuchu.",
+      "ejemplo": "Awilu willakunmi (El abuelo cuenta historias).",
+      "referencias": "Guía espiritual y custodio de conocimientos ancestrales."
+    },
+    {
+      "palabra": "AWLLIKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Preparar un plan; tramar algo.",
+      "ejemplo": "Awllikuy llamk'aypaq (Organiza el trabajo).",
+      "referencias": "Verbo usado en contextos productivos o estrategias comunitarias."
+    },
+    {
+      "palabra": "AWLLINA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Objeto disponible para tejer.",
+      "ejemplo": "Awllina q'aytum (Hilo listo para tejer).",
+      "referencias": "Materiales preparados para el arte textil (lana, agujas, tintes)."
+    },
+    {
+      "palabra": "AWLLIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Urdir.",
+      "ejemplo": "Awlliy q'aytuta (Urde el hilo).",
+      "referencias": "Primer paso en el tejido tradicional de telares."
+    },
+    {
+      "palabra": "AWQA",
+      "origen": "",
+      "categoria": "s. adj.",
+      "definicion": "Demonio, enemigo; tonto, terco.",
+      "ejemplo": "Awqa runam (Persona malintencionada). / Awqa allqu (Perro agresivo).",
+      "referencias": "Término con connotaciones morales y sociales negativas."
+    }
+]
