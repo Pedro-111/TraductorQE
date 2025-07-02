@@ -382,5 +382,148 @@
     "definicion": "Usuray",
     "ejemplo": "Usuray puñunapaq (Acuéstate para dormir).",
     "referencias": "Acto diario con rituales previos (ej. rezar)."
-  }
+  },
+    {
+      "espanol": "AMAESTRADO",
+      "quechua": "Yatrakashqa",
+      "categoria": "adj.",
+      "ejemplo": "",
+      "referencias": "Estado de quien ha adquirido conocimiento formal. En contexto andino, valora tanto saberes académicos como tradicionales."
+    },
+    {
+      "espanol": "AMAMANTAR",
+      "quechua": "Ruñuchiy, chuchuchiy",
+      "categoria": "tr.",
+      "ejemplo": "",
+      "referencias": "Acto fundamental de crianza. 'Chuchuchiy' enfatiza la acción de lactar, mientras 'ruñuchiy' incluye cuidados integrales del infante."
+    },
+    {
+      "espanol": "AMANECER",
+      "quechua": "Achikyay",
+      "categoria": "intr.",
+      "ejemplo": "",
+      "referencias": "Fenómeno cósmico vinculado a rituales agrícolas. El verbo describe el proceso luminoso gradual ('achik' = luz)."
+    },
+    {
+      "espanol": "AMANTE",
+      "quechua": {
+        "masculino": "wayna",
+        "femenino": "china, indya, kasira"
+      },
+      "categoria": "s.",
+      "ejemplo": "",
+      "referencias": "Términos con matices: 'wayna' (joven soltero), 'china' (mujer joven), 'indya/kasira' (préstamos para relaciones no formalizadas). Reflejan estructuras sociales tradicionales."
+    },
+    {
+      "espanol": "AMARRAR",
+      "quechua": {
+        "general": "Watay",
+        "especial": "kuchinudu",
+        "simple": "gallafuman"
+      },
+      "categoria": "tr.",
+      "ejemplo": "",
+      "referencias": "Técnicas de sujeción: 'kuchinudu' (nudos complejos para carga), 'gallafuman' (amarres básicos). 'Watay' es verbo genérico con usos en construcción, agricultura y textilería."
+    },
+    {
+      "espanol": "AÑO",
+      "quechua": "Wata",
+      "categoria": "s.",
+      "ejemplo": "",
+      "referencias": "Ciclo agrícola-ritual completo. Divide en épocas: 'paray wata' (tiempo de lluvias), 'chira wata' (tiempo seco). Base del calendario festivo comunal."
+    },
+    {
+      "espanol": "APORCAR",
+      "quechua": {
+        "general": "Kutipay",
+        "maíz": "ampu",
+        "tubérculos": "qora"
+      },
+      "categoria": "tr.",
+      "ejemplo": "",
+      "referencias": "Técnica agrícola específica por cultivo: 'ampu' (maíz con tierra alta), 'qora' (tubérculos con protección orgánica). 'Kutipay' implica segunda labor tras el deshierbe inicial."
+    },
+    {
+      "espanol": "ARCO IRIS",
+      "quechua": {
+        "CHET": "Inap",
+        "POR": "Chirapa"
+      },
+      "categoria": "s.",
+      "ejemplo": "",
+      "referencias": "Fenómeno atmosférico con significado mítico: puente entre mundos ('inap') o anuncio de cambio climático ('chirapa'). Dialectos Chetilla/Porcon conservan visiones locales."
+    },
+    {
+      "espanol": "ARAR",
+      "quechua": "Yapuy",
+      "categoria": "tr.",
+      "ejemplo": "",
+      "referencias": "Acto ritualizado con tecnología adaptada: arados europeos ('aradu') con técnicas andinas de tracción humana o animal. Siempre acompañado de ofrendas a Pachamama."
+    },
+    {
+      "espanol": "AUSENTE",
+      "quechua": "Chunlla",
+      "categoria": "adj.",
+      "ejemplo": "",
+      "referencias": "Describe tanto la ausencia física ('mitikuy') como el aislamiento social. En toponimia, nombra lugares deshabitados considerados sagrados o peligrosos."
+    },
+    {
+      "espanol": "AYUDA",
+      "quechua": {
+        "general": "Champag",
+        "mutua": "minka"
+      },
+      "categoria": "s.",
+      "ejemplo": "",
+      "referencias": "Sistemas de reciprocidad: 'minka' (trabajo colectivo rotativo), 'champag' (apoyo puntual). Base de la economía comunal andina."
+    },
+    {
+      "espanol": "AZADA",
+      "quechua": "Rakwana",
+      "categoria": "s.",
+      "ejemplo": "",
+      "referencias": "Herramienta prehispánica de mango corto para terrenos pedregosos. Diferente de 'lampa' (azadón de mango largo para suelos blandos)."
+    },
+    {
+      "espanol": "ANGOSTO",
+      "quechua": "Kitrki",
+      "categoria": "adj.",
+      "ejemplo": "",
+      "referencias": "Describe espacios físicos (senderos, viviendas) y situaciones sociales (opciones limitadas). Antónimo de 'pampa' (amplio/abierto)."
+    },
+    {
+      "espanol": "ANOCHE",
+      "quechua": "Chischi, chishi pacha, chishi tuta",
+      "categoria": "adv. t.",
+      "ejemplo": "",
+      "referencias": "Segmentación temporal precisa: 'chischi' (inicio noche), 'chishi pacha' (plena noche), 'chishi tuta' (madrugada). Refleja organización de actividades nocturnas."
+    },
+    {
+      "espanol": "AMAR",
+      "quechua": "Kuyay, munay",
+      "categoria": "tr.",
+      "ejemplo": "",
+      "referencias": "Doble dimensión: 'kuyay' (afecto demostrativo), 'munay' (deseo/voluntad). En relaciones humanas y vínculo con la tierra ('Pachamaman kuyay')."
+    },
+    {
+      "espanol": "ARROZ",
+      "quechua": "Arrus",
+      "categoria": "s.",
+      "ejemplo": "",
+      "referencias": "Préstamo adaptado ('arroz'). Cultivo introducido que desplazó cereales nativos en zonas bajas. Consumido en guisos festivos ('arruz tapado')."
+    },
+    {
+      "espanol": "ATERRIZAR",
+      "quechua": "Tiyay",
+      "categoria": "intr.",
+      "ejemplo": "",
+      "referencias": "Literalmente 'asentarse'. Usado tanto para aves como modernamente para aviones. Connota estabilidad y retorno al territorio."
+    },
+    {
+      "espanol": "AUNQUE",
+      "quechua": "-pti, -shpa",
+      "categoria": "conj.",
+      "ejemplo": "Maqawaptiki mana rishaqchu (Aunque me peguen no me iré). Mallagnashpa mana mikunichu (Aunque tenga hambre no como).",
+      "referencias": "Sufijos de concesión: '-pti' (condición hipotética), '-shpa' (circunstancia real). Diferencian resistencia a adversidad ('pti') vs. actitud deliberada ('shpa')."
+    }
 ]

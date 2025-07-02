@@ -1401,5 +1401,2877 @@
       "definicion": "Demonio, enemigo; tonto, terco.",
       "ejemplo": "Awqa runam (Persona malintencionada). / Awqa allqu (Perro agresivo).",
       "referencias": "Término con connotaciones morales y sociales negativas."
+    },
+    {
+      "palabra": "AWRIKAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Perder el equilibrio; tropezar por agotamiento o debilidad.",
+      "ejemplo": "Llank'aypi awrikarqani (Tropecé por cansancio en el trabajo).",
+      "referencias": "Término usado en contextos de fatiga extrema en zonas altas."
+    },
+    {
+      "palabra": "AWRIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Debilitar (a otro). De poco uso.",
+      "ejemplo": "Unquy awriwan (La enfermedad debilita).",
+      "referencias": "Verbo raro, aplicado a dolencias crónicas."
+    },
+    {
+      "palabra": "AYA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Cadáver; espíritu errante del agonizante; ánima.",
+      "ejemplo": "Aya pampapi (En el cementerio de cadáveres).",
+      "referencias": "Concepto vinculado a creencias sobre la transición espiritual."
+    },
+    {
+      "palabra": "AYAKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Saborear el picante.",
+      "ejemplo": "Ayakuy uchukuta (Saborea el ají).",
+      "referencias": "Práctica culinaria en platos tradicionales picantes."
+    },
+    {
+      "palabra": "AYAPUMA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Cabeza voladora del moribundo que grita como animal.",
+      "ejemplo": "Tutapi ayapuma uyariy (Escucha al ayapuma en la noche).",
+      "referencias": "Ser mitológico en relatos andinos de terror."
+    },
+    {
+      "palabra": "AYAQ",
+      "origen": "",
+      "categoria": "adj. s.",
+      "definicion": "Picante, amargo; bilis; vesícula.",
+      "ejemplo": "Ayaq mikhuymi (Comida picante). / Ayaq nanawan (Duele la vesícula).",
+      "referencias": "Dualidad: sabor en gastronomía y órgano en medicina tradicional."
+    },
+    {
+      "palabra": "AYASHAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Bostezar; pasar el resuello a otro.",
+      "ejemplo": "Ayashayki qamta (Te paso mi resuello).",
+      "referencias": "Práctica ritual para transferir energía vital."
+    },
+    {
+      "palabra": "AYAW",
+      "origen": "",
+      "categoria": "interj.",
+      "definicion": "¡Qué dolor!",
+      "ejemplo": "¡Ayaw! ¡Mana atiymanchu! (¡Qué dolor! ¡No aguanto!).",
+      "referencias": "Expresión de sufrimiento físico intenso."
+    },
+    {
+      "palabra": "AYAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Picar; amargar.",
+      "ejemplo": "Uchu ayayan (El ají pica).",
+      "referencias": "Sensación causada por alimentos con capsaicina."
+    },
+    {
+      "palabra": "AYAYAW",
+      "origen": "",
+      "categoria": "interj.",
+      "definicion": "¡Qué dolor!",
+      "ejemplo": "¡Ayayaw! ¡Kashaymi! (¡Qué dolor! ¡Me corté!).",
+      "referencias": "Variante enfática de 'ayaw'."
+    },
+    {
+      "palabra": "AYCHA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Carne.",
+      "ejemplo": "Aychata mikuy (Come carne).",
+      "referencias": "Alimento ritual en festividades importantes."
+    },
+    {
+      "palabra": "AYCHAKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Conseguir/comprar/cambiar carne.",
+      "ejemplo": "Aychakuy llamantawan (Consigue carne con tu llama).",
+      "referencias": "Actividad económica en ferias ganaderas."
+    },
+    {
+      "palabra": "AYKA",
+      "origen": "",
+      "categoria": "pron. interr.",
+      "definicion": "¿Cuánto? ¿Cuántos?",
+      "ejemplo": "Ayka tantam? (¿Cuánto pan?).",
+      "referencias": "Partícula esencial en transacciones comerciales."
+    },
+    {
+      "palabra": "AYKAP",
+      "origen": "",
+      "categoria": "pron. interr.",
+      "definicion": "¿Cuándo?",
+      "ejemplo": "Aykap shamunki? (¿Cuándo vendrás?).",
+      "referencias": "Usado para coordinar actividades comunales."
+    },
+    {
+      "palabra": "AYKAPIS",
+      "origen": "",
+      "categoria": "pron. indef.",
+      "definicion": "Cualquier cantidad.",
+      "ejemplo": "Aykapis qunqay (Te doy cualquier cantidad).",
+      "referencias": "Expresión de generosidad en sistemas de reciprocidad."
+    },
+    {
+      "palabra": "AYLLU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Familia extendida; clan; clase de animales.",
+      "ejemplo": "Ayllu llama (Manada de llamas).",
+      "referencias": "Estructura social básica en los Andes prehispánicos."
+    },
+    {
+      "palabra": "AYPA",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Suficiente; bastante.",
+      "ejemplo": "Aypa mikhuymi (Comida suficiente).",
+      "referencias": "Concepto valorado en ética del buen vivir (Allin Kawsay)."
+    },
+    {
+      "palabra": "AYPAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Alcanzar (objetivo/lugar); conseguir algo.",
+      "ejemplo": "Aypay wasiman (Llega a la casa).",
+      "referencias": "Verbo para logros personales o físicos."
+    },
+    {
+      "palabra": "AYRUPLANU",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Aeroplano.",
+      "ejemplo": "Ayruplanu wayrapi purin (El aeroplano vuela en el aire).",
+      "referencias": "Neologismo para tecnología moderna en zonas rurales."
+    },
+    {
+      "palabra": "AYSAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Guiar jalando con cuerda (animal/objeto).",
+      "ejemplo": "Aysay llamata (Jala a la llama con cuerda).",
+      "referencias": "Técnica para manejo de camélidos en terrenos difíciles."
+    },
+    {
+      "palabra": "BAISHIRU",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Ladrón.",
+      "ejemplo": "¡Baishiru imata apasqa! (¡Ladrón, llevó mis cosas!).",
+      "referencias": "Término colonial para delincuentes."
+    },
+    {
+      "palabra": "BALAKA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET: Corona de cintas para bailes; POR: Cintas en trenzas.",
+      "ejemplo": "Warmi balakawan tusun (La mujer baila con balaka).",
+      "referencias": "Adorno festivo que indica estado civil en mujeres."
+    },
+    {
+      "palabra": "BALBALUKA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Arbusto de flor blanca.",
+      "ejemplo": "Balbaluka sumaq tikaqmi (El balbaluka tiene hermosa flor).",
+      "referencias": "Planta nativa usada en ceremonias de purificación."
+    },
+    {
+      "palabra": "BALDI",
+      "origen": "del esp. balde",
+      "categoria": "s.",
+      "definicion": "Balde.",
+      "ejemplo": "Baldiwan yakuta apay (Lleva agua con el balde).",
+      "referencias": "Utensilio esencial para transporte de agua en zonas sin tuberías."
+    },
+    {
+      "palabra": "BALIV",
+      "origen": "del esp.",
+      "categoria": "intr.",
+      "definicion": "Valer, tener valor.",
+      "ejemplo": "Kay qellay balivmi (Este dinero vale).",
+      "referencias": "Concepto económico adoptado durante la colonia."
+    },
+    {
+      "palabra": "BALVAY",
+      "origen": "del esp.",
+      "categoria": "tr.",
+      "definicion": "Abalear. Cf. blankiyay.",
+      "ejemplo": "Balvay animalta (Abalea al animal).",
+      "referencias": "Término para caza con armas de fuego."
+    },
+    {
+      "palabra": "BALLI",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Valle; llanura entre montañas.",
+      "ejemplo": "Ballipi sara tarpuy (Siembran maíz en el valle).",
+      "referencias": "Geografía clave para agricultura en los Andes."
+    },
+    {
+      "palabra": "BANKIRA",
+      "origen": "del esp. banco ?",
+      "categoria": "s.",
+      "definicion": "Asiento del telar donde se sienta el tejedor.",
+      "ejemplo": "Bankirapi away (Teje sentado en el bankira).",
+      "referencias": "Componente del telar de cintura tradicional."
+    },
+    {
+      "palabra": "BANKU",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Banco (asiento).",
+      "ejemplo": "Bankupi tiyay (Siéntate en el banco).",
+      "referencias": "Mueble introducido en viviendas rurales."
+    },
+    {
+      "palabra": "BARAS",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Vigas gruesas en techos tradicionales.",
+      "ejemplo": "Baras wasi qatapi (Vigas en el techo de la casa).",
+      "referencias": "Elemento estructural en arquitectura andina de paja."
+    },
+    {
+      "palabra": "BARBA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Ladrón. Cf. baishiru, ladrun.",
+      "ejemplo": "¡Barba imata apasqa! (¡Ladrón, llevó mis cosas!).",
+      "referencias": "Término para delincuentes en contextos comunitarios."
+    },
+    {
+      "palabra": "BILA",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Vela (bujía).",
+      "ejemplo": "Bilawan achikyay (Ilumina con la vela).",
+      "referencias": "Objeto ritual en velatorios y misas nocturnas."
+    },
+    {
+      "palabra": "BILAY",
+      "origen": "del esp. velar",
+      "categoria": "tr.",
+      "definicion": "Velar un difunto.",
+      "ejemplo": "Bilay wañuqta (Vela al difunto).",
+      "referencias": "Práctica funeraria con raíces prehispánicas y católicas."
+    },
+    {
+      "palabra": "BINA",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Vena.",
+      "ejemplo": "Bina nanawan (Duele la vena).",
+      "referencias": "Concepto anatómico en medicina tradicional."
+    },
+    {
+      "palabra": "BIRANU",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Estación seca; verano.",
+      "ejemplo": "Biranupi chakrata tarpuy (Siembra la chacra en verano).",
+      "referencias": "Temporada agrícola para cultivos de secano."
+    },
+    {
+      "palabra": "BIRDI",
+      "origen": "del esp.",
+      "categoria": "adj. s.",
+      "definicion": "Verde; sopa de papas con hierbas.",
+      "ejemplo": "Birdi lawa (Sopa verde de papas).",
+      "referencias": "Plato tradicional con hierbas medicinales como paico."
+    },
+    {
+      "palabra": "BIRSU",
+      "origen": "del esp. verso",
+      "categoria": "s.",
+      "definicion": "Canción; canto.",
+      "ejemplo": "Birsuta takiy (Canta una canción).",
+      "referencias": "Género musical en festividades religiosas."
+    },
+    {
+      "palabra": "BIRSUV",
+      "origen": "del esp. verso",
+      "categoria": "tr.",
+      "definicion": "Cantar.",
+      "ejemplo": "Panly birsuku (Mi hermana canta).",
+      "referencias": "Actividad central en celebraciones comunitarias."
+    },
+    {
+      "palabra": "BIRRAKU",
+      "origen": "del esp. verraco",
+      "categoria": "s.",
+      "definicion": "Cerdo sin castrar; polígamo.",
+      "ejemplo": "Birraku kuchi (Cerdo reproductor).",
+      "referencias": "Término peyorativo para hombres con múltiples parejas."
+    },
+    {
+      "palabra": "BIRRUS",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Berro (planta crucífera).",
+      "ejemplo": "Birrus mikhuypaq (Berro para comer).",
+      "referencias": "Planta acuática usada en ensaladas y medicina."
+    },
+    {
+      "palabra": "BISINU",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Vecino.",
+      "ejemplo": "Bisinuwan rimay (Habla con el vecino).",
+      "referencias": "Relación clave en sistemas de ayuda mutua (ayni)."
+    },
+    {
+      "palabra": "BISKUCHU",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Bizcocho.",
+      "ejemplo": "Biskuchuta ranti (Compra bizcochos).",
+      "referencias": "Pan dulce introducido en festividades católicas."
+    },
+    {
+      "palabra": "BISTYA",
+      "origen": "del esp. bestia",
+      "categoria": "s.",
+      "definicion": "Caballo; animal en general.",
+      "ejemplo": "Bistya purin (El caballo camina).",
+      "referencias": "Término colonial para animales de trabajo."
+    },
+    {
+      "palabra": "BLANKIYAY",
+      "origen": "del esp. blanquear",
+      "categoria": "tr.",
+      "definicion": "Abalear; blanquear objetos.",
+      "ejemplo": "Blankiyay qarata (Blanquea la olla).",
+      "referencias": "Técnica para limpieza de utensilios con ceniza."
+    },
+    {
+      "palabra": "BLANKUSARA",
+      "origen": "del esp. blanco + sara",
+      "categoria": "s.",
+      "definicion": "Maíz blanco.",
+      "ejemplo": "Blankusara api ruwan (Haz mazamorra de maíz blanco).",
+      "referencias": "Variedad sagrada para preparar chicha ritual."
+    },
+    {
+      "palabra": "BOOYA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Fango. Cf. síñigu.",
+      "ejemplo": "Booyapi urmay (Caer en el fango).",
+      "referencias": "Material usado en construcción de adobes."
+    },
+    {
+      "palabra": "BRINKAY",
+      "origen": "del esp. brincar",
+      "categoria": "intr.",
+      "definicion": "Saltar, brincar. Cf. pinyay.",
+      "ejemplo": "Wawa brinkan (El niño brinca).",
+      "referencias": "Juego infantil común en comunidades rurales."
+    },
+    {
+      "palabra": "BRUJIYAY",
+      "origen": "del esp. brujear",
+      "categoria": "tr.",
+      "definicion": "Brujear.",
+      "ejemplo": "Brujiyay runata (Brujea a la persona).",
+      "referencias": "Práctica de hechicería con raíces coloniales."
+    },
+    {
+      "palabra": "CHAKICHIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Secar (al sol o fuego).",
+      "ejemplo": "Chakichiy charqita (Seca el charqui).",
+      "referencias": "Técnica ancestral de conservación de alimentos."
+    },
+    {
+      "palabra": "CHAKI-ISHPA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Excremento.",
+      "ejemplo": "Chaki-ishpa allpaman (Excremento a la tierra).",
+      "referencias": "Usado como abono natural (wanu) en agricultura."
+    },
+    {
+      "palabra": "CHAKIY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Secarse al sol; madurar las mieses.",
+      "ejemplo": "Sara chakirun (El maíz se secó al sol).",
+      "referencias": "Proceso clave para cosecha de granos."
+    },
+    {
+      "palabra": "CHAKRIRU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Especie de frijol.",
+      "ejemplo": "Chakriru mikhuymi (Comida de frijol chakriru).",
+      "referencias": "Legumbre nativa de alto valor nutricional."
+    },
+    {
+      "palabra": "CHALI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Manta con flecos sujeta con tupu.",
+      "ejemplo": "Chali warmipa (Manta tradicional de mujer).",
+      "referencias": "Prenda femenina usada en ceremonias importantes."
+    },
+    {
+      "palabra": "CHAMAYA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Árbol para curar la chicha.",
+      "ejemplo": "Chamaya aswaman (Hojas para la chicha).",
+      "referencias": "Planta que evita fermentación dañina en bebidas."
+    },
+    {
+      "palabra": "CHAMISA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Leña delgada para combustible.",
+      "ejemplo": "Chamisa rawranapaq (Leña para cocinar).",
+      "referencias": "Recurso energético esencial en zonas rurales."
+    },
+    {
+      "palabra": "CHAMPA1",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Champa (césped con raíz).",
+      "ejemplo": "Champa wasi qatapaq (Champa para techar).",
+      "referencias": "Material para techos ecológicos."
+    },
+    {
+      "palabra": "CHAMPA2",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Ayuda material o espiritual; trabajo.",
+      "ejemplo": "Champawan yanapaway (Ayúdame con trabajo).",
+      "referencias": "Concepto de apoyo mutuo en sistema ayni."
+    },
+    {
+      "palabra": "CHAMPAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Ayudar, animar; apurar.",
+      "ejemplo": "Champay llamk'aqta (Anima al trabajador).",
+      "referencias": "Acción para motivar en tareas colectivas."
+    },
+    {
+      "palabra": "CHAMSU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET. Gusano perjudicial para cultivos. Cf. chamusu.",
+      "ejemplo": "Chamsu sarata mikhun (El gusano come el maíz).",
+      "referencias": "Plaga agrícola combatida con métodos tradicionales."
+    },
+    {
+      "palabra": "CHAMUSU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET. Gusano perjudicial. Cf. chamsu.",
+      "ejemplo": "Chamusu papata mikhun (El gusano come la papa).",
+      "referencias": "Sinónimo dialectal de 'chamsu'."
+    },
+    {
+      "palabra": "CHANKARUMI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Piedra pequeña para fabricar sombreros.",
+      "ejemplo": "Chankarumi sombrerupaq (Piedra para sombreros).",
+      "referencias": "Herramienta artesanal en textilería tradicional."
+    },
+    {
+      "palabra": "CHANKUNA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Chancaca (panela).",
+      "ejemplo": "Chankuna apiwan (Chancaca para la mazamorra).",
+      "referencias": "Endulzante tradicional en postres andinos."
+    },
+    {
+      "palabra": "CHAPAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Mirar; espiar, observar.",
+      "ejemplo": "Chapay imaynata ruwanku (Observa cómo lo hacen).",
+      "referencias": "Técnica de aprendizaje en artesanías o agricultura."
+    },
+    {
+      "palabra": "CHAPUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Mezclar (cosas separables). Cf. shipuy.",
+      "ejemplo": "Chapuy mikhuykunata (Mezcla las comidas).",
+      "referencias": "Método culinario para platos como el chapeado."
+    },
+    {
+      "palabra": "CHAOA",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Sí, pues; claro.",
+      "ejemplo": "¿Rinkichu? — Chaoa (¿Vas? — Claro que sí).",
+      "referencias": "Partícula afirmativa enfática en diálogos."
+    },
+    {
+      "palabra": "CHAOLLA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Varillas para techos de chozas.",
+      "ejemplo": "Chaolla wasi qatapaq (Varillas para el techo).",
+      "referencias": "Elemento estructural en arquitectura vernácula."
+    },
+    {
+      "palabra": "CHAOLLAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Techar.",
+      "ejemplo": "Chaollay wasita (Techan la casa).",
+      "referencias": "Proceso constructivo con materiales locales."
+    },
+    {
+      "palabra": "CHARIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Agarrar; tomar con la mano.",
+      "ejemplo": "Chariy q'aytuta (Agarra el hilo).",
+      "referencias": "Acción básica en labores diarias o artesanías."
+    },
+    {
+      "palabra": "CHARKI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Picante de papas y olluco.",
+      "ejemplo": "Charki mikhuymi (Comida picante típica).",
+      "referencias": "Plato identitario de la región Cajamarca."
+    },
+    {
+      "palabra": "CHAWCHA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET. Variedad de cebada y papa.",
+      "ejemplo": "Chawcha papam (Papa chawcha).",
+      "referencias": "Cultivos adaptados a condiciones locales."
+    },
+    {
+      "palabra": "CHAY",
+      "origen": "",
+      "categoria": "pron. dem.",
+      "definicion": "Ese.",
+      "ejemplo": "Chay runam (Ese hombre).",
+      "referencias": "Demostrativo fundamental en gramática quechua."
+    },
+    {
+      "palabra": "CHAYKAMAN",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Mientras.",
+      "ejemplo": "Chaykaman samariy (Descansa mientras tanto).",
+      "referencias": "Conector temporal en narrativa oral."
+    },
+    {
+      "palabra": "CHAYMANTA",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Después, entonces.",
+      "ejemplo": "Chaymanta shamurqani (Después vine).",
+      "referencias": "Partícula para secuenciar eventos en relatos."
+    },
+    {
+      "palabra": "CHAYPI",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Ahí.",
+      "ejemplo": "Llank'ay chaypim (El trabajo está ahí).",
+      "referencias": "Término espacial fundamental en descripciones cotidianas."
+    },
+    {
+      "palabra": "CHAYRAQ",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Recién.",
+      "ejemplo": "Chayraq shamurqani (Recién llegué).",
+      "referencias": "Indica acciones recientes en la narración temporal."
+    },
+    {
+      "palabra": "CHAYSHINA",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Así de este modo.",
+      "ejemplo": "Chayshina ruway (Hazlo así).",
+      "referencias": "Instrucción para procesos artesanales o agrícolas."
+    },
+    {
+      "palabra": "CHAYTAPIS",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Además.",
+      "ejemplo": "Chaytapis qunqayki (Además te doy).",
+      "referencias": "Partícula aditiva en intercambios recíprocos (ayni)."
+    },
+    {
+      "palabra": "CHAYWA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET. Residuos de trilla (trigo/arveja).",
+      "ejemplo": "Chaywa wanutam (Los residuos son abono).",
+      "referencias": "Subproducto agrícola usado como compost."
+    },
+    {
+      "palabra": "CHEOTAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Partir, rajar.",
+      "ejemplo": "Cheotay rumita (Raja la piedra).",
+      "referencias": "Técnica para construcción o extracción de materiales."
+    },
+    {
+      "palabra": "CHEOYAO",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Verde.",
+      "ejemplo": "Cheoyao qatam (Hierba verde).",
+      "referencias": "Color asociado a vegetación joven."
+    },
+    {
+      "palabra": "CHEOYAO-WAOTA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Serpiente de lomo verde.",
+      "ejemplo": "Cheoyao-waota manchaymi (La serpiente verde asusta).",
+      "referencias": "Reptil con simbolismo en mitos locales."
+    },
+    {
+      "palabra": "CHIBU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Cabra tierna.",
+      "ejemplo": "Chibu michikun (Cría de cabra).",
+      "referencias": "Término ganadero para animales jóvenes."
+    },
+    {
+      "palabra": "CHICHARRU",
+      "origen": "del esp. chicharro",
+      "categoria": "s.",
+      "definicion": "Chicharrón.",
+      "ejemplo": "Chicharru mikhuymi (Comida de chicharrón).",
+      "referencias": "Plato festivo de cerdo frito en celebraciones."
+    },
+    {
+      "palabra": "CHICHI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Abuela; tía (CHET).",
+      "ejemplo": "Chichi willakun (La abuela cuenta historias).",
+      "referencias": "Término afectuoso para mujeres mayores."
+    },
+    {
+      "palabra": "CHICHIN",
+      "origen": "",
+      "categoria": "interj.",
+      "definicion": "¡Qué miedo!",
+      "ejemplo": "¡Chichin! ¡Machay! (¡Qué miedo! ¡Cueva!).",
+      "referencias": "Expresión ante peligros reales o sobrenaturales."
+    },
+    {
+      "palabra": "CHIKCHI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Murciélago; cosquilla.",
+      "ejemplo": "Chikchi tutapi purin (El murciélago vuela de noche).",
+      "referencias": "Animal con significados duales (sabiduría/mal augurio)."
+    },
+    {
+      "palabra": "CHIKCHIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Hacer cosquillas.",
+      "ejemplo": "Chikchiy wawata (Haz cosquillas al bebé).",
+      "referencias": "Juego infantil común en familias."
+    },
+    {
+      "palabra": "CHIKLIKU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Sobaco, axila.",
+      "ejemplo": "Chiklikupi nanay (Dolor en la axila).",
+      "referencias": "Área corporal en diagnósticos médicos tradicionales."
+    },
+    {
+      "palabra": "CHIKLUN",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Animal con un testículo; zorzal ganadero.",
+      "ejemplo": "Chiklun pisqu michikunawan (El zorzal con el ganado).",
+      "referencias": "Ave que sigue al ganado para alimentarse de insectos."
+    },
+    {
+      "palabra": "CHILIN",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Sapo pequeño de lluvia.",
+      "ejemplo": "Chilin paraypi (Sapo en la lluvia).",
+      "referencias": "Anfibio indicador de temporada húmeda."
+    },
+    {
+      "palabra": "CHIMCHIN",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Arbusto de flor amarilla para tintes.",
+      "ejemplo": "Chimchin tintepaq (Arbusto para teñir).",
+      "referencias": "Planta usada en artesanías textiles tradicionales."
+    },
+    {
+      "palabra": "CHIMPA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Al otro lado; frente.",
+      "ejemplo": "Chimpa mayuman (Al otro lado del río).",
+      "referencias": "Término geográfico en descripciones del territorio."
+    },
+    {
+      "palabra": "CHIMPAKUY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Vadear; cruzar al otro lado.",
+      "ejemplo": "Chimpakuy mayuta (Cruza el río).",
+      "referencias": "Habilidad esencial en zonas con ríos caudalosos."
+    },
+    {
+      "palabra": "CHINA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Mujer joven; llamada para cerdas.",
+      "ejemplo": "China warmi (Mujer joven) / ¡China kuchi! (¡Cerdas!).",
+      "referencias": "Término con doble uso en contextos humanos y ganaderos."
+    },
+    {
+      "palabra": "CHINAKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Conseguir mujer.",
+      "ejemplo": "Chinakuy warmita (Consigue esposa).",
+      "referencias": "Proceso social de búsqueda de pareja."
+    },
+    {
+      "palabra": "CHINKAPACHIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Burlar; jugar a las escondidas.",
+      "ejemplo": "Chinkapachiy wawakunawan (Juega a las escondidas).",
+      "referencias": "Juego infantil para desarrollar astucia."
+    },
+    {
+      "palabra": "CHINKAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Perderse; extraviarse.",
+      "ejemplo": "Chinkay sachapi (Perderse en el bosque).",
+      "referencias": "Riesgo en caminos rurales o neblina."
+    },
+    {
+      "palabra": "CHIPCHI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Calabaza.",
+      "ejemplo": "Chipchi mikhuypaq (Calabaza para comer).",
+      "referencias": "Cultivo versátil en gastronomía andina."
+    },
+    {
+      "palabra": "CHIPCHIPUTU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Vasija de calabaza; calvo (POR).",
+      "ejemplo": "Chipchiputu yakupa (Recipiente de agua) / Chipchiputu runa (Calvo).",
+      "referencias": "Objeto utilitario y término metafórico."
+    },
+    {
+      "palabra": "CHIPCHIYANU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET. Guiso de calabaza.",
+      "ejemplo": "Chipchiyanu mikhuymi (Potaje de calabaza).",
+      "referencias": "Plato tradicional en temporada de cosecha."
+    },
+    {
+      "palabra": "CHIRAPA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Arco iris; CHET. Llovizna con sol.",
+      "ejemplo": "Chirapa rikurimun (Aparece el arco iris).",
+      "referencias": "Fenómeno natural con significado mítico (puente cósmico)."
+    },
+    {
+      "palabra": "CHIRI",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Frío.",
+      "ejemplo": "Chiri tuta (Noche fría).",
+      "referencias": "Clima característico de zonas altoandinas."
+    },
+    {
+      "palabra": "CHIRRYATU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Sapo de sonido característico.",
+      "ejemplo": "Chirryatu qarqan (El sapo croa).",
+      "referencias": "Anfibio nombrado por su canto onomatopéyico."
+    },
+    {
+      "palabra": "CHISHI",
+      "origen": "",
+      "categoria": "adv.",
+      "definicion": "Ayer en la noche.",
+      "ejemplo": "Chishi shamurqani (Vine anoche).",
+      "referencias": "Término temporal para eventos recientes."
+    },
+    {
+      "palabra": "CHISHIPACHA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Lucero vespertino; primeras horas nocturnas.",
+      "ejemplo": "Chishipacha rikurimun (Aparece el lucero).",
+      "referencias": "Astro guía para actividades nocturnas."
+    },
+    {
+      "palabra": "CHISHIPACHIRU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Lucero de la tarde.",
+      "ejemplo": "Chishipachiru qayllanpi (Antes del lucero).",
+      "referencias": "Sinónimo regional de 'chishipacha'."
+    },
+    {
+      "palabra": "CHISIIYAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Permanecer todo el día.",
+      "ejemplo": "Chisiiyay llamk'aypi (Trabajar todo el día).",
+      "referencias": "Acción continua en jornadas laborales largas."
+    },
+    {
+      "palabra": "CHIWYAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Gorjear.",
+      "ejemplo": "Pisqu chiwyachkan (El pájaro gorgorea).",
+      "referencias": "Canto de aves en amaneceres o atardeceres."
+    },
+    {
+      "palabra": "CHOCHU",
+      "origen": "del esp. chocho",
+      "categoria": "adj.",
+      "definicion": "Anciano; abuelo.",
+      "ejemplo": "Chochu yayam (Mi abuelo).",
+      "referencias": "Término respetuoso para varones mayores."
+    },
+    {
+      "palabra": "CHOOLLO",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Choclo (maíz tierno).",
+      "ejemplo": "Choollo api ruwan (Haz mazamorra de choclo).",
+      "referencias": "Ingrediente esencial en platos tradicionales."
+    },
+    {
+      "palabra": "CHOOO",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Pilar horquillado para chozas.",
+      "ejemplo": "Chooo wasipa (Soporte de vivienda).",
+      "referencias": "Elemento estructural en arquitectura vernácula."
+    },
+    {
+      "palabra": "CHOORI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Herida, lesión.",
+      "ejemplo": "Choori makipi (Herida en la mano).",
+      "referencias": "Afección tratada con plantas medicinales."
+    },
+    {
+      "palabra": "CHOORIV",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Herir.",
+      "ejemplo": "Chooriv runata (Hiere a la persona).",
+      "referencias": "Acción física con connotaciones negativas."
+    },
+    {
+      "palabra": "CHUCHA",
+      "origen": "del esp. chocha",
+      "categoria": "adj.",
+      "definicion": "Anciana; abuela.",
+      "ejemplo": "Chucha warmi (Mujer anciana).",
+      "referencias": "Término de respeto para mujeres mayores."
+    },
+    {
+      "palabra": "CHUCHOOA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Maíz cocido-secado para harina.",
+      "ejemplo": "Chuchooa lawapaq (Harina para sopa).",
+      "referencias": "Método ancestral de conservación de maíz."
+    },
+    {
+      "palabra": "CHUCHU1",
+      "origen": "del esp. chocho",
+      "categoria": "adj.",
+      "definicion": "CHET. Anciano; abuelo.",
+      "ejemplo": "Chuchu runam (Hombre anciano).",
+      "referencias": "Variante dialectal para adultos mayores."
+    },
+    {
+      "palabra": "CHUCHU2",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Pezones, mamas.",
+      "ejemplo": "Warmipa chuchun (Pezón femenino).",
+      "referencias": "Término anatómico en contextos de maternidad."
+    },
+    {
+      "palabra": "CHUCHUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Mamar.",
+      "ejemplo": "Wawa chuchun (El bebé mama).",
+      "referencias": "Acto fundamental en nutrición infantil."
+    },
+    {
+      "palabra": "CHUCHOOAKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Preparar harina de maíz secado.",
+      "ejemplo": "Chuchooakuy chuchooata (Prepara la harina).",
+      "referencias": "Proceso culinario tradicional."
+    },
+    {
+      "palabra": "CHUKARU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Salvaje, huraño.",
+      "ejemplo": "Chukaru anima (Animal salvaje).",
+      "referencias": "Descripción para fauna no domesticada."
+    },
+    {
+      "palabra": "CHUKCHU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Terciana (fiebre intermitente).",
+      "ejemplo": "Chukchu unquy (Enfermedad con fiebre).",
+      "referencias": "Afección atribuida a 'malos aires' en medicina tradicional."
+    },
+    {
+      "palabra": "CHUKCHUKURU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Alacrán de puna.",
+      "ejemplo": "Chukchukuru manchaymi (El alacrán asusta).",
+      "referencias": "Arácnido venenoso en zonas altas."
+    },
+    {
+      "palabra": "CHUKCHUY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Temblar por paludismo.",
+      "ejemplo": "Unquq chukchun (El enfermo tiembla).",
+      "referencias": "Síntoma de enfermedades febriles."
+    },
+    {
+      "palabra": "CHUKLLA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Choza.",
+      "ejemplo": "Chuklla ruway (Construye una choza).",
+      "referencias": "Vivienda temporal para pastores."
+    },
+    {
+      "palabra": "CHUKLLAKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Hacer choza.",
+      "ejemplo": "Chukllakuy wasita (Haz una choza).",
+      "referencias": "Técnica constructiva rápida."
+    },
+    {
+      "palabra": "CHUKRU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Duro, resecado.",
+      "ejemplo": "Chukru tantam (Pan duro).",
+      "referencias": "Estado de alimentos por deshidratación."
+    },
+    {
+      "palabra": "CHUKU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET. Venda; paño de cabeza femenino.",
+      "ejemplo": "Chuku warmipa (Paño de mujer).",
+      "referencias": "Prenda para protección solar o ritual."
+    },
+    {
+      "palabra": "CHUKUKUY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Vendarse; cubrirse la cabeza.",
+      "ejemplo": "Chukukuy chiripa (Protégete del frío).",
+      "referencias": "Acción para abrigo o ceremonias."
+    },
+    {
+      "palabra": "CHUKURURU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "POR. Mujeriego.",
+      "ejemplo": "Chukururu runam (Hombre mujeriego).",
+      "referencias": "Término desaprobatorio en normas comunitarias."
+    },
+    {
+      "palabra": "CHUKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Vendar.",
+      "ejemplo": "Chukuy makita (Venda la mano).",
+      "referencias": "Cuidado de heridas con telas."
+    },
+    {
+      "palabra": "CHULU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Muchacho, joven.",
+      "ejemplo": "Chulu wamram (Joven fuerte).",
+      "referencias": "Etapa vital antes de la adultez plena."
+    },
+    {
+      "palabra": "CHULLA",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Desigual, desnivelado.",
+      "ejemplo": "Chulla patam (Piso desigual).",
+      "referencias": "Descripción de terrenos o construcciones."
+    },
+    {
+      "palabra": "CHULLAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Desnivelar.",
+      "ejemplo": "Chullay allpata (Desnivela la tierra).",
+      "referencias": "Acción en agricultura o albañilería."
+    },
+    {
+      "palabra": "CHULLKU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Planta para tintes y medicina.",
+      "ejemplo": "Chullku hampinapaq (Planta medicinal).",
+      "referencias": "Recurso natural para textiles y salud."
+    },
+    {
+      "palabra": "CHULLPUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Echarse agua a la cara.",
+      "ejemplo": "Chullpukuni qaqllayta (Me mojo la cara).",
+      "referencias": "Acto de higiene o refrescarse."
+    },
+    {
+      "palabra": "CHULLUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Derretir.",
+      "ejemplo": "Chulluy chiruta (Derrite la nieve).",
+      "referencias": "Proceso para obtener agua en zonas frías."
+    },
+    {
+      "palabra": "CHUMPA",
+      "origen": "del esp.",
+      "categoria": "s.",
+      "definicion": "Chompa (suéter).",
+      "ejemplo": "Chumpa chiripa (Chompa para el frío).",
+      "referencias": "Prenda de abrigo de uso moderno."
+    },
+    {
+      "palabra": "CHUMPI",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Marrón claro; plomizo claro.",
+      "ejemplo": "Chumpi llamam (Llama color café claro).",
+      "referencias": "Color común en textiles y animales."
+    },
+    {
+      "palabra": "CHUNCHU1",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Intestinos.",
+      "ejemplo": "Chunchu mikhuymi (Comida de intestinos).",
+      "referencias": "Plato tradicional como el chunchulí."
+    },
+    {
+      "palabra": "CHUNCHU2",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Danzante.",
+      "ejemplo": "Chunchu tusun (Danzante baila).",
+      "referencias": "Participante en danzas rituales andinas."
+    },
+    {
+      "palabra": "CHUNCHULL",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Intestinos.",
+      "ejemplo": "Chunchull nanawan (Dolor de intestinos).",
+      "referencias": "Órgano en contextos médicos o culinarios."
+    },
+    {
+      "palabra": "CHUNKA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Juego de lanzar/atrapar frijoles.",
+      "ejemplo": "Chunka pukllay (Juega al chunka).",
+      "referencias": "Juego tradicional para destreza manual."
+    },
+    {
+      "palabra": "CHUNKU1",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Tacaño.",
+      "ejemplo": "Chunku runam (Hombre tacaño).",
+      "referencias": "Actitud reprobada en cultura de reciprocidad."
+    },
+    {
+      "palabra": "CHUNKU2",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Piedra romboide para mortero.",
+      "ejemplo": "Chunku wanuta (Mortero para moler).",
+      "referencias": "Herramienta lítica ancestral."
+    },
+    {
+      "palabra": "CHUNLLA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Silencio; desierto; inhabitado.",
+      "ejemplo": "Chunlla pampam (Llanura deshabitada).",
+      "referencias": "Descripción de lugares solitarios o sagrados."
+    },
+    {
+      "palabra": "CHUPAY",
+      "origen": "del esp.",
+      "categoria": "tr.",
+      "definicion": "Chupar.",
+      "ejemplo": "Chupay misk'i (Chupa el dulce).",
+      "referencias": "Acción infantil o consumo de líquidos."
+    },
+    {
+      "palabra": "CHUPI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Sopa de papa.",
+      "ejemplo": "Chupi mikhuymi (Comida de sopa).",
+      "referencias": "Plato humilde pero nutritivo."
+    },
+    {
+      "palabra": "CHUPIKA",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Rojo.",
+      "ejemplo": "Chupika pacham (Ropa roja).",
+      "referencias": "Color ritual en textiles y ceremonias."
+    },
+    {
+      "palabra": "CHURI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Hijo varón.",
+      "ejemplo": "Churi wawam (Hijo niño).",
+      "referencias": "Término para descendencia masculina."
+    },
+    {
+      "palabra": "CHURIKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Hacer corte de pelo (rito).",
+      "ejemplo": "Churikuy wawanchikta (Corta el pelo de nuestro hijo).",
+      "referencias": "Ritual de paso para adolescentes varones."
+    },
+    {
+      "palabra": "CHURPI",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "POR. Hilo muy torcido.",
+      "ejemplo": "Churpi q'aytu (Hilo ensortijado).",
+      "referencias": "Defecto en materiales para tejido."
+    },
+    {
+      "palabra": "CHUROAP",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Grillo.",
+      "ejemplo": "Churoap takin (El grillo canta).",
+      "referencias": "Insecto asociado a lluvias en tradiciones."
+    },
+    {
+      "palabra": "CHURU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Caracol.",
+      "ejemplo": "Churu mayupi (Caracol en el río).",
+      "referencias": "Molusco usado como alimento o en artesanías."
+    },
+    {
+      "palabra": "CHURRYAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Chorrear; orinar (onomatopéyico).",
+      "ejemplo": "Yaku churryachkan (El agua chorrea).",
+      "referencias": "Sonido de líquidos en movimiento."
+    },
+    {
+      "palabra": "CHUSHAO",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET. Lechuza.",
+      "ejemplo": "Chushao manchaymi (La lechuza asusta).",
+      "referencias": "Ave nocturna con significados míticos."
+    },
+    {
+      "palabra": "CHUSHEO",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Lechuza.",
+      "ejemplo": "Chusheo tutapi (Lechuza en la noche).",
+      "referencias": "Variante dialectal para strigiformes."
+    },
+    {
+      "palabra": "CHUSHIPI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Mosca.",
+      "ejemplo": "Chushipi mikhuyman (Mosca en la comida).",
+      "referencias": "Insecto común en climas cálidos."
+    },
+    {
+      "palabra": "CHUSHU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Menudo; delgadito.",
+      "ejemplo": "Chushu q'aytu (Hilo delgado).",
+      "referencias": "Descripción para objetos o personas esbeltas."
+    },
+    {
+      "palabra": "CHUTAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Jalar con fuerza; arrastrar.",
+      "ejemplo": "Chutay q'epita (Jala el bulto).",
+      "referencias": "Acción en transporte de cargas pesadas."
+    },
+    {
+      "palabra": "CHUYA",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Cristalino, limpio.",
+      "ejemplo": "Chuya yakum (Agua cristalina).",
+      "referencias": "Calidad de agua en manantiales sagrados."
+    },
+    {
+      "palabra": "CHUYAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Filtrar, destilar.",
+      "ejemplo": "Chuyay yakuta (Filtra el agua).",
+      "referencias": "Técnica para purificación de líquidos."
+    },
+    {
+      "palabra": "CHUYKU",
+      "origen": "del esp.",
+      "categoria": "adj.",
+      "definicion": "Chueco, torcido.",
+      "ejemplo": "Chuyku kurku (Árbol torcido).",
+      "referencias": "Defecto en objetos o posturas corporales."
+    },
+    {
+      "palabra": "CHUYMA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "CHET. Soga torcida o encogida.",
+      "ejemplo": "Chuyma waskum (Soga encogida).",
+      "referencias": "Problema en materiales para construcción."
+    },
+    {
+      "palabra": "TRAKI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Pie.",
+      "ejemplo": "Traki nanawan (Me duele el pie).",
+      "referencias": "Parte del cuerpo esencial para el movimiento."
+    },
+    {
+      "palabra": "TRAKIPALTA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Planta del pie.",
+      "ejemplo": "Trakipalta patapi (Planta del pie en el suelo).",
+      "referencias": "Anatomía clave en caminatas largas."
+    },
+    {
+      "palabra": "TRAKRA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Chacra; terreno de cultivo.",
+      "ejemplo": "Trakra allinmi (La chacra está buena).",
+      "referencias": "Unidad agrícola familiar en los Andes."
+    },
+    {
+      "palabra": "TRAMOAS",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "POR. Hierba aromática.",
+      "ejemplo": "Tramoas q'apay (Hierba aromática).",
+      "referencias": "Planta para saumerios o medicina tradicional."
+    },
+    {
+      "palabra": "TRANl1",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Comida sobrante; fiambre.",
+      "ejemplo": "Trani mikhuymi (Comida para llevar).",
+      "referencias": "Alimento para viajes o trabajo en el campo."
+    },
+    {
+      "palabra": "TRANl2",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Precio, valor.",
+      "ejemplo": "Trani aykatam? (¿Cuánto cuesta?).",
+      "referencias": "Término económico en transacciones."
+    },
+    {
+      "palabra": "TRANKA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Pierna.",
+      "ejemplo": "Tranka hatunmi (Tengo piernas fuertes).",
+      "referencias": "Parte del cuerpo para desplazamiento."
+    },
+    {
+      "palabra": "TRANKAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Montar a horcajadas.",
+      "ejemplo": "Trankay bistya (Monta el caballo).",
+      "referencias": "Acción para cabalgar o saltar obstáculos."
+    },
+    {
+      "palabra": "TRAPSIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Sacudir.",
+      "ejemplo": "Trapsiy pachata (Sacude la ropa).",
+      "referencias": "Limpieza de objetos o telas."
+    },
+    {
+      "palabra": "TRAQAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Sacar algo con cucharón, cuchara o cualquier vasija; cucharear.",
+      "ejemplo": "Marya tragaykan timpuchita taksha kucharitawan, 'Maria está cuchareando la sopa con cucharita'.",
+      "referencias": "Término para manipulación de alimentos líquidos."
+    },
+    {
+      "palabra": "TRAOLE",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Mentón.",
+      "ejemplo": "",
+      "referencias": "Anatomía facial."
+    },
+    {
+      "palabra": "TRAQNAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Poner la carga; haber cargar a las bestias; maniatar.",
+      "ejemplo": "",
+      "referencias": "Actividad relacionada con transporte de carga."
+    },
+    {
+      "palabra": "TRASKIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Recibir.",
+      "ejemplo": "",
+      "referencias": "Acción básica de intercambio."
+    },
+    {
+      "palabra": "TRAWA",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Crudo.",
+      "ejemplo": "",
+      "referencias": "Estado de alimentos no cocinados."
+    },
+    {
+      "palabra": "TRAWPI",
+      "origen": "",
+      "categoria": "adv. l.",
+      "definicion": "Centro, 'medio'.",
+      "ejemplo": "",
+      "referencias": "Ubicación espacial."
+    },
+    {
+      "palabra": "TRAWPIDIDU",
+      "origen": "trawpi + esp. dedo",
+      "categoria": "s.",
+      "definicion": "Cordial o dedo mayor.",
+      "ejemplo": "",
+      "referencias": "Anatomía manual; Cf. atundidu, kurdyal."
+    },
+    {
+      "palabra": "TRAYAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Cocharse.",
+      "ejemplo": "Akshuqa trayaykanna, 'ya está cocinándose la papa'.",
+      "referencias": "Proceso de cocción de alimentos."
+    },
+    {
+      "palabra": "TRAYAY2",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Llegar, arribar.",
+      "ejemplo": "Qayna trayamurgan, 'llegó ayer'.",
+      "referencias": "Acción de desplazamiento completado."
+    },
+    {
+      "palabra": "TREONEPA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Guiño; tic nervioso; odioso, codicioso.",
+      "ejemplo": "",
+      "referencias": "Expresión facial con connotaciones negativas."
+    },
+    {
+      "palabra": "TREONEPAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Guiñar; manifestar el odio con el guiño del ojo.",
+      "ejemplo": "",
+      "referencias": "Comportamiento no verbal agresivo."
+    },
+    {
+      "palabra": "TREONEY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Odiar, aborrecer.",
+      "ejemplo": "",
+      "referencias": "Emoción intensa de rechazo."
+    },
+    {
+      "palabra": "TRITRI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Hierba aromática parecida al huacatay.",
+      "ejemplo": "",
+      "referencias": "Planta usada en gastronomía andina."
+    },
+    {
+      "palabra": "TRITRU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Embarazada, encinta.",
+      "ejemplo": "",
+      "referencias": "Estado fisiológico femenino."
+    },
+    {
+      "palabra": "TRITRUCHIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Empreñar.",
+      "ejemplo": "",
+      "referencias": "Acción sobre animales hembras."
+    },
+    {
+      "palabra": "TRITRUY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Embarazarse.",
+      "ejemplo": "",
+      "referencias": "Proceso biológico."
+    },
+    {
+      "palabra": "TRILYA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Brasa.",
+      "ejemplo": "",
+      "referencias": "Elemento de fuego para cocción."
+    },
+    {
+      "palabra": "TRINKIS",
+      "origen": "",
+      "categoria": "adj. CHET.",
+      "definicion": "Zonzo.",
+      "ejemplo": "",
+      "referencias": "Dialecto Chetilla: persona ingenua."
+    },
+    {
+      "palabra": "TROQA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Tos; asfixia.",
+      "ejemplo": "",
+      "referencias": "Problema respiratorio; Cf. qosu."
+    },
+    {
+      "palabra": "TROQAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Toser; asfixiarse.",
+      "ejemplo": "",
+      "referencias": "Síntoma médico; Cf. qosoy."
+    },
+    {
+      "palabra": "TROQQ",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Variedad de papa.",
+      "ejemplo": "",
+      "referencias": "Cultivo andino específico."
+    },
+    {
+      "palabra": "TROQYAQ",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Zorzal (especie de).",
+      "ejemplo": "",
+      "referencias": "Ave local."
+    },
+    {
+      "palabra": "TRUNKA",
+      "origen": "",
+      "categoria": "num.",
+      "definicion": "Diez.",
+      "ejemplo": "",
+      "referencias": "Numeral básico."
+    },
+    {
+      "palabra": "TRUNQA",
+      "origen": "",
+      "categoria": "s. CHET.",
+      "definicion": "Planta silvestre.",
+      "ejemplo": "",
+      "referencias": "Flora regional dialectal."
+    },
+    {
+      "palabra": "TRUNRUKA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Arbusto cuyas hojas se emplean para tapar la jora.",
+      "ejemplo": "",
+      "referencias": "Uso en preparación de chicha."
+    },
+    {
+      "palabra": "TRUPA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Cola; raíz.",
+      "ejemplo": "",
+      "referencias": "Anatomía animal/botánica."
+    },
+    {
+      "palabra": "TRURAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Hacer; colocar.",
+      "ejemplo": "Truraykanl kay mankata tullpapi, 'estoy colocando esta olla en el fogón'. Truraykan soq misata, 'está haciendo una mesa'.",
+      "referencias": "Acción básica de fabricación/organización; Cf. ruray."
+    },
+    {
+      "palabra": "TRURKA",
+      "origen": "",
+      "categoria": "s. POR. / adv. l.",
+      "definicion": "Tercer plato / Encima(de).",
+      "ejemplo": "",
+      "referencias": "Dialecto Porcon: utensilio o ubicación espacial."
+    },
+    {
+      "palabra": "TRUTRAW",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Maguey.",
+      "ejemplo": "",
+      "referencias": "Planta de uso textil."
+    },
+    {
+      "palabra": "TRUTRUN",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Salientes en piedras de cantería similares a pezones.",
+      "ejemplo": "",
+      "referencias": "Arquitectura tradicional."
+    },
+    {
+      "palabra": "TRUSKU",
+      "origen": "",
+      "categoria": "num.",
+      "definicion": "Cuatro.",
+      "ejemplo": "",
+      "referencias": "Numeral básico."
+    },
+    {
+      "palabra": "DANSAY",
+      "origen": "esp. danzar",
+      "categoria": "tr.",
+      "definicion": "Bailar.",
+      "ejemplo": "",
+      "referencias": "Préstamo español para actividad cultural."
+    },
+    {
+      "palabra": "DAS",
+      "origen": "",
+      "categoria": "adv. m.",
+      "definicion": "Rápido, al momento.",
+      "ejemplo": "",
+      "referencias": "Temporalidad inmediata; Cf. dasdas."
+    },
+    {
+      "palabra": "DASDAS",
+      "origen": "",
+      "categoria": "adv. m.",
+      "definicion": "Rápido, al momento.",
+      "ejemplo": "",
+      "referencias": "Énfasis de urgencia; Cf. das."
+    },
+    {
+      "palabra": "DIBI",
+      "origen": "esp. debe",
+      "categoria": "s.",
+      "definicion": "Deuda.",
+      "ejemplo": "",
+      "referencias": "Préstamo económico del español."
+    },
+    {
+      "palabra": "DIBISVU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Demasiado.",
+      "ejemplo": "",
+      "referencias": "Cuantificador intensivo."
+    },
+    {
+      "palabra": "DIDU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Dedo.",
+      "ejemplo": "",
+      "referencias": "Anatomía manual."
+    },
+    {
+      "palabra": "DIMANDA",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Demanda.",
+      "ejemplo": "",
+      "referencias": "Préstamo legal del español."
+    },
+    {
+      "palabra": "DIMANDAY",
+      "origen": "esp. demandar",
+      "categoria": "tr.",
+      "definicion": "Formular una demanda judicial.",
+      "ejemplo": "",
+      "referencias": "Acción legal."
+    },
+    {
+      "palabra": "DISIMRI",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Diciembre.",
+      "ejemplo": "",
+      "referencias": "Calendario gregoriano; Cf. disyemri."
+    },
+    {
+      "palabra": "DISPIDIV",
+      "origen": "esp.",
+      "categoria": "tr.",
+      "definicion": "Despedir.",
+      "ejemplo": "",
+      "referencias": "Préstamo laboral del español."
+    },
+    {
+      "palabra": "DISYEMRI",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Diciembre.",
+      "ejemplo": "",
+      "referencias": "Variante fonética; Cf. disimri."
+    },
+    {
+      "palabra": "DIVA",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Día.",
+      "ejemplo": "",
+      "referencias": "Unidad temporal."
+    },
+    {
+      "palabra": "DIVASITADU",
+      "origen": "esp. día + citado",
+      "categoria": "s. POR.",
+      "definicion": "Feriado; fiesta de guardar.",
+      "ejemplo": "",
+      "referencias": "Festividad religiosa/legal."
+    },
+    {
+      "palabra": "DUBLAY",
+      "origen": "esp.",
+      "categoria": "tr.",
+      "definicion": "Doblar.",
+      "ejemplo": "",
+      "referencias": "Acción física."
+    },
+    {
+      "palabra": "DUMINGU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Domingo.",
+      "ejemplo": "",
+      "referencias": "Día de la semana."
+    },
+    {
+      "palabra": "DUS",
+      "origen": "esp.",
+      "categoria": "num.",
+      "definicion": "Dos.",
+      "ejemplo": "",
+      "referencias": "Numeral básico."
+    },
+    {
+      "palabra": "DUSI",
+      "origen": "esp.",
+      "categoria": "num.",
+      "definicion": "Doce.",
+      "ejemplo": "",
+      "referencias": "Numeral."
+    },
+    {
+      "palabra": "DYABLITU",
+      "origen": "esp. diablo",
+      "categoria": "s. POR.",
+      "definicion": "Denominación del centeno.",
+      "ejemplo": "",
+      "referencias": "Fitónimo; Cf. sintinu."
+    },
+    {
+      "palabra": "FALDA",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Ala de sombrero.",
+      "ejemplo": "",
+      "referencias": "Parte de indumentaria."
+    },
+    {
+      "palabra": "FAMILYA",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Parentela; familia.",
+      "ejemplo": "",
+      "referencias": "Estructura social; Cf. ayllu."
+    },
+    {
+      "palabra": "FARDILAY",
+      "origen": "esp. enfardar",
+      "categoria": "tr. CHET.",
+      "definicion": "Preparar la carga para acémilas.",
+      "ejemplo": "",
+      "referencias": "Actividad ganadera dialectal."
+    },
+    {
+      "palabra": "FIBRI",
+      "origen": "esp. fiebre",
+      "categoria": "s.",
+      "definicion": "Fiebre.",
+      "ejemplo": "",
+      "referencias": "Síntoma médico."
+    },
+    {
+      "palabra": "FIDIYUS",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Fideos.",
+      "ejemplo": "",
+      "referencias": "Alimento; Cf. fidyus."
+    },
+    {
+      "palabra": "FIDYUS",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Fideos.",
+      "ejemplo": "",
+      "referencias": "Variante fonética; Cf. fidiyus."
+    },
+    {
+      "palabra": "FILA",
+      "origen": "esp. fila",
+      "categoria": "s.",
+      "definicion": "Cumbres montañosas.",
+      "ejemplo": "",
+      "referencias": "Geografía andina."
+    },
+    {
+      "palabra": "FILU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Filo.",
+      "ejemplo": "",
+      "referencias": "Parte cortante de herramientas."
+    },
+    {
+      "palabra": "FINU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Fino.",
+      "ejemplo": "",
+      "referencias": "Calidad de objetos/texturas."
+    },
+    {
+      "palabra": "FIRRU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Hierro.",
+      "ejemplo": "",
+      "referencias": "Material; Cf. jyerru, jirru, fyerru."
+    },
+    {
+      "palabra": "FIYU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Feo.",
+      "ejemplo": "",
+      "referencias": "Estética; Cf. sagra."
+    },
+    {
+      "palabra": "FLAKU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Flaco.",
+      "ejemplo": "",
+      "referencias": "Contextura física; Cf. plaku, rampa."
+    },
+    {
+      "palabra": "FLAWATA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Flauta.",
+      "ejemplo": "",
+      "referencias": "Instrumento musical; Cf. plawta, flawta."
+    },
+    {
+      "palabra": "FLAWTA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Flauta.",
+      "ejemplo": "",
+      "referencias": "Cf. plawta, flawata."
+    },
+    {
+      "palabra": "FLUJU",
+      "origen": "esp.",
+      "categoria": "adj.",
+      "definicion": "Flojo, haragán.",
+      "ejemplo": "",
+      "referencias": "Actitud; Cf. pluju, qella."
+    },
+    {
+      "palabra": "FLURINSYU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Especie de trigo (blanco/redondeado).",
+      "ejemplo": "",
+      "referencias": "Variedad agrícola."
+    },
+    {
+      "palabra": "FRUTA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Fruta.",
+      "ejemplo": "",
+      "referencias": "Alimento; Cf. birdura."
+    },
+    {
+      "palabra": "FUNDU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Falda bajo el traje.",
+      "ejemplo": "",
+      "referencias": "Prenda de vestir femenina."
+    },
+    {
+      "palabra": "FYAMRI",
+      "origen": "esp.",
+      "categoria": "adj.",
+      "definicion": "Fiambre.",
+      "ejemplo": "",
+      "referencias": "Alimento preservado."
+    },
+    {
+      "palabra": "FYERU",
+      "origen": "esp. fiero",
+      "categoria": "adj.",
+      "definicion": "Rostro picado de viruela; áspero.",
+      "ejemplo": "",
+      "referencias": "Apariencia; Cf. qatrqa, sagraq1."
+    },
+    {
+      "palabra": "FYESTA",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Fiesta.",
+      "ejemplo": "",
+      "referencias": "Celebración comunitaria."
+    },
+    {
+      "palabra": "GALGA",
+      "origen": "esp. galga",
+      "categoria": "adj.",
+      "definicion": "Animal hembra dañina/mujer golosa.",
+      "ejemplo": "",
+      "referencias": "Uso figurado negativo."
+    },
+    {
+      "palabra": "GALGU",
+      "origen": "esp. galgo",
+      "categoria": "adj.",
+      "definicion": "Animal macho dañino/persona golosa.",
+      "ejemplo": "",
+      "referencias": "Uso figurado negativo."
+    },
+    {
+      "palabra": "GARABATU",
+      "origen": "esp. garabato",
+      "categoria": "s.",
+      "definicion": "Argolla de madera para caronas.",
+      "ejemplo": "",
+      "referencias": "Utensilio de carga animal."
+    },
+    {
+      "palabra": "GARAÑUN",
+      "origen": "esp. garañón",
+      "categoria": "adj.",
+      "definicion": "Adultero, mujeriego.",
+      "ejemplo": "",
+      "referencias": "Conducta sexual reprobada."
+    },
+    {
+      "palabra": "GARRALA",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Garrapata.",
+      "ejemplo": "",
+      "referencias": "Parásito; Cf. garrapata."
+    },
+    {
+      "palabra": "GARRAPATA",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Garrapata.",
+      "ejemplo": "",
+      "referencias": "Cf. garrala."
+    },
+    {
+      "palabra": "GARRUCHA",
+      "origen": "esp. garrocha",
+      "categoria": "s.",
+      "definicion": "Varilla punzante para yuntas.",
+      "ejemplo": "",
+      "referencias": "Herramienta agrícola."
+    },
+    {
+      "palabra": "GRANISU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Granizo.",
+      "ejemplo": "",
+      "referencias": "Fenómeno meteorológico."
+    },
+    {
+      "palabra": "GRUSILLA",
+      "origen": "esp.",
+      "categoria": "adj.",
+      "definicion": "Color grosella.",
+      "ejemplo": "",
+      "referencias": "Coloración."
+    },
+    {
+      "palabra": "GURDU",
+      "origen": "esp.",
+      "categoria": "adj.",
+      "definicion": "Gordo.",
+      "ejemplo": "",
+      "referencias": "Contextura física; Cf. ogo, poqog."
+    },
+    {
+      "palabra": "I.",
+      "origen": "esp. y",
+      "categoria": "conj. coor.",
+      "definicion": "Y.",
+      "ejemplo": "",
+      "referencias": "Conjunción coordinante."
+    },
+    {
+      "palabra": "ICHOO",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Izquierda.",
+      "ejemplo": "",
+      "referencias": "Dirección espacial; Cf. ichoq-ladu."
+    },
+    {
+      "palabra": "ICHOQ-LADU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Izquierda.",
+      "ejemplo": "",
+      "referencias": "Cf. ichoq."
+    },
+    {
+      "palabra": "ICHOQ-MAKI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Mano izquierda.",
+      "ejemplo": "",
+      "referencias": "Lateralidad corporal."
+    },
+    {
+      "palabra": "ICHU",
+      "origen": "",
+      "categoria": "conj. coor.",
+      "definicion": "O.",
+      "ejemplo": "",
+      "referencias": "Conjunción disyuntiva."
+    },
+    {
+      "palabra": "ICHUNA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Hoz.",
+      "ejemplo": "",
+      "referencias": "Herramienta agrícola."
+    },
+    {
+      "palabra": "ITRAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Derramar; desparramar.",
+      "ejemplo": "Itrargan yakuta, 'derramar el agua'.",
+      "referencias": "Acción con líquidos/materiales."
+    },
+    {
+      "palabra": "ITRIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Escarmenar.",
+      "ejemplo": "Mamay itrin millwata puchkananpaq, 'mi mamá escarmena lana para hilar'.",
+      "referencias": "Proceso textil previo al hilado."
+    },
+    {
+      "palabra": "IKI",
+      "origen": "",
+      "categoria": "adv. I.",
+      "definicion": "Atrás, detrás; hacia atrás.",
+      "ejemplo": "Ikiman purini, 'camino para atrás'. Chukllap ikinpi, 'detrás de la choza'.",
+      "referencias": "Dirección espacial."
+    },
+    {
+      "palabra": "ILU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Hiló.",
+      "ejemplo": "",
+      "referencias": "Material textil."
+    },
+    {
+      "palabra": "ILLA",
+      "origen": "",
+      "categoria": "adv. m.",
+      "definicion": "Así, eso.",
+      "ejemplo": "",
+      "referencias": "Demostrativo (suele reduplicarse)."
+    },
+    {
+      "palabra": "ILLAVA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Lanzadera.",
+      "ejemplo": "",
+      "referencias": "Herramienta textil; Cf. illwa."
+    },
+    {
+      "palabra": "ILLUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Pelar la papa con cuchillo, mondar.",
+      "ejemplo": "",
+      "referencias": "Preparación de alimentos."
+    },
+    {
+      "palabra": "ILLWA",
+      "origen": "",
+      "categoria": "s. CHET.",
+      "definicion": "Lanzadera.",
+      "ejemplo": "",
+      "referencias": "Cf. illawa."
+    },
+    {
+      "palabra": "IMA",
+      "origen": "",
+      "categoria": "pron. interrog.",
+      "definicion": "¿Qué?",
+      "ejemplo": "",
+      "referencias": "Partícula interrogativa básica."
+    },
+    {
+      "palabra": "IMADYA",
+      "origen": "",
+      "categoria": "pron. interrog.",
+      "definicion": "¿Cuándo? (lit. qué día).",
+      "ejemplo": "",
+      "referencias": "Temporalidad interrogativa."
+    },
+    {
+      "palabra": "IMAKAMAN",
+      "origen": "",
+      "categoria": "pron. interrog.",
+      "definicion": "¿Cuándo, hasta qué?",
+      "ejemplo": "",
+      "referencias": "Límite temporal."
+    },
+    {
+      "palabra": "IMALAYA",
+      "origen": "",
+      "categoria": "pron. interrog.",
+      "definicion": "¿Cómo, de qué manera?",
+      "ejemplo": "",
+      "referencias": "Modalidad interrogativa."
+    },
+    {
+      "palabra": "IMANAY",
+      "origen": "",
+      "categoria": "adv. m.",
+      "definicion": "De qué manera/modo; permanecer en imposibilidad.",
+      "ejemplo": "",
+      "referencias": "Indefinición o incapacidad."
+    },
+    {
+      "palabra": "IMAPIS",
+      "origen": "",
+      "categoria": "pron. indef.",
+      "definicion": "Algo.",
+      "ejemplo": "",
+      "referencias": "Cuantificador indefinido."
+    },
+    {
+      "palabra": "IMASHINA",
+      "origen": "",
+      "categoria": "pron. interrog.",
+      "definicion": "¿Cómo?",
+      "ejemplo": "",
+      "referencias": "Solicitud de descripción."
+    },
+    {
+      "palabra": "IMBIDYUSU",
+      "origen": "esp.",
+      "categoria": "adj.",
+      "definicion": "Envidioso; perverso.",
+      "ejemplo": "",
+      "referencias": "Emoción negativa; Cf. malnatural, malatural."
+    },
+    {
+      "palabra": "IMPILLA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Grasa para lubricar sogas de cuero.",
+      "ejemplo": "",
+      "referencias": "Mantenimiento de herramientas."
+    },
+    {
+      "palabra": "IMPLASTU",
+      "origen": "esp. emplasto",
+      "categoria": "s.",
+      "definicion": "Ungüento aplicado con lienzo.",
+      "ejemplo": "",
+      "referencias": "Remedio tradicional."
+    },
+    {
+      "palabra": "IMURAS",
+      "origen": "",
+      "categoria": "pron. interrog.",
+      "definicion": "¿Qué hora?",
+      "ejemplo": "",
+      "referencias": "Temporalidad específica."
+    },
+    {
+      "palabra": "INAP",
+      "origen": "",
+      "categoria": "s. CHET.",
+      "definicion": "Arco iris.",
+      "ejemplo": "",
+      "referencias": "Fenómeno atmosférico; Cf. chirapa."
+    },
+    {
+      "palabra": "INDYA",
+      "origen": "esp.",
+      "categoria": "s. CHET.",
+      "definicion": "Mujer que convive sin casarse, amante.",
+      "ejemplo": "",
+      "referencias": "Relación no formalizada."
+    },
+    {
+      "palabra": "INDYANAKUY",
+      "origen": "",
+      "categoria": "tr. CHET.",
+      "definicion": "Copularse, juntarse carnalmente.",
+      "ejemplo": "",
+      "referencias": "Acto sexual."
+    },
+    {
+      "palabra": "INDYANAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Desear mujer.",
+      "ejemplo": "",
+      "referencias": "Deseo sexual masculino."
+    },
+    {
+      "palabra": "INDYERU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Mujeriego, adúltero.",
+      "ejemplo": "",
+      "referencias": "Conducta sexual promiscua."
+    },
+    {
+      "palabra": "INDYUPISHOO",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Variedad de gorrión.",
+      "ejemplo": "",
+      "referencias": "Ave específica."
+    },
+    {
+      "palabra": "INGANAY",
+      "origen": "esp.",
+      "categoria": "tr.",
+      "definicion": "Engañar.",
+      "ejemplo": "",
+      "referencias": "Acción deshonesta; Cf. llullachiy."
+    },
+    {
+      "palabra": "INIRU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Enero.",
+      "ejemplo": "",
+      "referencias": "Mes del calendario."
+    },
+    {
+      "palabra": "INKU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Carnero con cuatro cuernos.",
+      "ejemplo": "",
+      "referencias": "Variedad animal inusual."
+    },
+    {
+      "palabra": "INKWINTRU",
+      "origen": "esp. encuentro",
+      "categoria": "s.",
+      "definicion": "Caderas (zona donde se articulan las piernas).",
+      "ejemplo": "",
+      "referencias": "Término anatómico que muestra adaptación semántica del español 'encuentro' para referirse a la articulación pélvica. Importante en descripciones médicas tradicionales."
+    },
+    {
+      "palabra": "INOOR",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Planta medicinal (cerraja).",
+      "ejemplo": "",
+      "referencias": "Hierba usada en la medicina tradicional para problemas digestivos y hepáticos. Su recolección sigue calendarios lunares en algunas comunidades."
+    },
+    {
+      "palabra": "INSI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Nudo.",
+      "ejemplo": "",
+      "referencias": "Elemento fundamental en técnicas textiles y de amarre. Los nudos específicos ('qhipu') tienen tradición prehispánica como sistema de registro."
+    },
+    {
+      "palabra": "INSIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Anudar.",
+      "ejemplo": "",
+      "referencias": "Técnica esencial en la fabricación de redes, telares y sistemas de carga. Algunos nudos tienen valor ritual en ceremonias de unión."
+    },
+    {
+      "palabra": "INTINADU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Entenado.",
+      "ejemplo": "",
+      "referencias": "Término para relaciones familiares extendidas comunes en estructuras comunitarias andinas donde la crianza compartida es frecuente."
+    },
+    {
+      "palabra": "INTRIGAY",
+      "origen": "esp.",
+      "categoria": "tr.",
+      "definicion": "Entregar.",
+      "ejemplo": "",
+      "referencias": "Préstamo español usado en contextos de transacción y reciprocidad (ayni). Cf. qoy (dar) muestra variación semántica regional."
+    },
+    {
+      "palabra": "INU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Hierba forrajera.",
+      "ejemplo": "",
+      "referencias": "Pastos nativos de altura usados para alimentación de camélidos. Su conservación es vital para sistemas agropecuarios tradicionales."
+    },
+    {
+      "palabra": "IRU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Nigua.",
+      "ejemplo": "",
+      "referencias": "Parásito común en zonas rurales. Su extracción sigue técnicas tradicionales con agujas de espino y aplicaciones de plantas antisépticas."
+    },
+    {
+      "palabra": "IRAK",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Zarza.",
+      "ejemplo": "",
+      "referencias": "Arbusto espinoso usado como cerca viva para proteger cultivos. Sus frutos tienen uso en tintes naturales."
+    },
+    {
+      "palabra": "IRBASANTA",
+      "origen": "esp. hierbasanta",
+      "categoria": "s.",
+      "definicion": "Hierbasanta.",
+      "ejemplo": "",
+      "referencias": "Planta aromática esencial en la cocina andina para aderezar caldos y guisos. También usada en baños rituales de limpieza espiritual."
+    },
+    {
+      "palabra": "IRMANA",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Hermana.",
+      "ejemplo": "",
+      "referencias": "Término de parentesco con connotaciones de solidaridad familiar. En contextos rituales puede referirse a mujeres de la comunidad."
+    },
+    {
+      "palabra": "IRMANU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Hermano.",
+      "ejemplo": "",
+      "referencias": "Similar a 'irmana', usado también en cofradías y cargos comunales donde se establecen relaciones fraternales simbólicas."
+    },
+    {
+      "palabra": "IRPUY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Meterse; insertarse.",
+      "ejemplo": "",
+      "referencias": "Acción física con connotaciones sexuales en ciertos contextos. También describe la inserción de herramientas o materiales."
+    },
+    {
+      "palabra": "IRUPLANU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Aeroplano.",
+      "ejemplo": "",
+      "referencias": "Préstamo moderno adaptado fonéticamente. Cf. abyun, ayruplanu muestran variantes dialectales para este concepto tecnológico."
+    },
+    {
+      "palabra": "ISMANA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Letrina.",
+      "ejemplo": "",
+      "referencias": "Infraestructura básica de saneamiento. Su ubicación sigue normas culturales respecto a direcciones cardinales y distancias de viviendas."
+    },
+    {
+      "palabra": "ISKARU",
+      "origen": "esp. escaño",
+      "categoria": "s. CHET.",
+      "definicion": "Silla.",
+      "ejemplo": "",
+      "referencias": "Mueble introducido durante la colonia. En comunidades tradicionales se prefieren asientos bajos (taki) para reuniones. Cf. silla."
+    },
+    {
+      "palabra": "ISKI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Liendre.",
+      "ejemplo": "",
+      "referencias": "Parásito capilar combatido con lavados de hierbas como el muña y el eucalipto. Su presencia se asocia a descuido personal."
+    },
+    {
+      "palabra": "ISKILIKIDU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Lleno de liendres.",
+      "ejemplo": "",
+      "referencias": "Adjetivo despectivo usado también metafóricamente para objetos en mal estado o situaciones complicadas."
+    },
+    {
+      "palabra": "ISKULIRU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Escolar.",
+      "ejemplo": "",
+      "referencias": "Préstamo moderno que refleja la incorporación de la educación formal en comunidades rurales."
+    },
+    {
+      "palabra": "ISKURANA",
+      "origen": "esp. oscuro + -na",
+      "categoria": "s. CHET.",
+      "definicion": "Oscuridad.",
+      "ejemplo": "",
+      "referencias": "Sufijo quechua -na para formar sustantivos abstractos. Concepto con connotaciones míticas (tayta usku: señor de la oscuridad)."
+    },
+    {
+      "palabra": "ISKURSYUNIRA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Hierba medicinal.",
+      "ejemplo": "",
+      "referencias": "Probablemente 'escorsionera' (Hieracium spp.), usada para tratar inflamaciones y problemas respiratorios en medicina tradicional."
+    },
+    {
+      "palabra": "ISKURU",
+      "origen": "esp.",
+      "categoria": "adj.",
+      "definicion": "Oscuro.",
+      "ejemplo": "",
+      "referencias": "Describe tanto la ausencia de luz como tonos de piel y objetos. En cosmovisión andina, lo oscuro complementa lo luminoso (yanantin). Cf. uskuru."
+    },
+    {
+      "palabra": "ISKWILA",
+      "origen": "esp. escuela",
+      "categoria": "s.",
+      "definicion": "Escuela.",
+      "ejemplo": "",
+      "referencias": "Institución educativa que coexiste con sistemas de conocimiento tradicional. Genera tensiones culturales en algunas comunidades."
+    },
+    {
+      "palabra": "ISKWILANTI",
+      "origen": "esp. escuela",
+      "categoria": "s.",
+      "definicion": "Alumno.",
+      "ejemplo": "",
+      "referencias": "Neologismo que combina préstamo español con sufijo quechua, mostrando creatividad lingüística para nuevos roles sociales."
+    },
+    {
+      "palabra": "ISMA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Excremento.",
+      "ejemplo": "",
+      "referencias": "Materia con usos agrícolas (abono) y rituales (ofrendas a la tierra). Su manejo sigue protocolos culturales específicos."
+    },
+    {
+      "palabra": "ISMAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Defecar.",
+      "ejemplo": "",
+      "referencias": "Acción fisiológica con normas culturales: dirección, horarios y lugares apropiados según creencias locales."
+    },
+    {
+      "palabra": "ISMAYKINWA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Hierba medicinal para el mal de espanto.",
+      "ejemplo": "",
+      "referencias": "Planta usada en rituales de curación del 'susto' (pérdida del alma), síndrome cultural importante en la medicina tradicional."
+    },
+    {
+      "palabra": "ISMUY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Podrirse.",
+      "ejemplo": "",
+      "referencias": "Proceso natural aprovechado en técnicas de fermentación de alimentos (chicha, abonos) pero temido en almacenamiento de cosechas."
+    },
+    {
+      "palabra": "ISPIRITIRU",
+      "origen": "esp. espiritista",
+      "categoria": "s. CHET.",
+      "definicion": "Espiritista.",
+      "ejemplo": "",
+      "referencias": "Practicante de sincretismo religioso que combina catolicismo con creencias prehispánicas. Cf. mistru, bruju, makanista muestran especialistas similares."
+    },
+    {
+      "palabra": "ISOON",
+      "origen": "",
+      "categoria": "num.",
+      "definicion": "Nueve.",
+      "ejemplo": "",
+      "referencias": "Numeral fundamental en sistemas de conteo agrícola y organización de festividades (novenas católicas)."
+    },
+    {
+      "palabra": "ISHKAY",
+      "origen": "",
+      "categoria": "num.",
+      "definicion": "Dos.",
+      "ejemplo": "",
+      "referencias": "Base del sistema dual andino (yanantin: complementariedad de opuestos). Estructura relaciones sociales, agrícolas y cosmológicas."
+    },
+    {
+      "palabra": "ISHKLY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Caer, bajar.",
+      "ejemplo": "",
+      "referencias": "Verbo de movimiento esencial. Describe desde fenómenos naturales (lluvia) hasta movimientos corporales (postraciones rituales)."
+    },
+    {
+      "palabra": "ISHKUY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Desgranar; desmoronarse una pared.",
+      "ejemplo": "",
+      "referencias": "Acción agrícola (desgrane de maíz) y constructiva. El desmoronamiento de muros se considera mal presagio en algunas comunidades."
+    },
+    {
+      "palabra": "ISHPA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Orina; excremento de bebés.",
+      "ejemplo": "",
+      "referencias": "Fluidos corporales con usos diagnósticos en medicina tradicional. La orina infantil se consideraba purificadora en rituales antiguos."
+    },
+    {
+      "palabra": "ISHPAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Orinar.",
+      "ejemplo": "",
+      "referencias": "Acción regulada por normas culturales. La dirección al orinar (especialmente de mujeres) sigue consideraciones cósmicas."
+    },
+    {
+      "palabra": "JALKA",
+      "origen": "q. ant. salqa",
+      "categoria": "s.",
+      "definicion": "Puna; cordillera; zona frígida.",
+      "ejemplo": "",
+      "referencias": "Ecosistema altoandino vital para pastoreo de camélidos. Conserva arcaísmos del quechua ancestral ('salqa'). Espacio sagrado en cosmovisión andina."
+    },
+    {
+      "palabra": "JALMYENTU",
+      "origen": "",
+      "categoria": "adj. POR.",
+      "definicion": "Rotoso.",
+      "ejemplo": "",
+      "referencias": "Dialecto Porcon: describe vestimenta deteriorada. Socialmente indica pobreza o descuido, contrario al valor de la presentación personal."
+    },
+    {
+      "palabra": "JIBRIRU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Febrero.",
+      "ejemplo": "",
+      "referencias": "Mes de transición entre lluvias y cosechas. Corresponde al período de carnavales, festividad importante en el calendario agrícola-religioso."
+    },
+    {
+      "palabra": "JUDYUS",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Judíos; 'enemigos'.",
+      "ejemplo": "",
+      "referencias": "Término introducido durante la colonia con connotaciones antisemitas. En contextos locales puede usarse metafóricamente para enemistades."
+    },
+    {
+      "palabra": "JWISYU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Juicio, inteligencia, razonamiento; pleito judicial.",
+      "ejemplo": "",
+      "referencias": "Concepto que abarca desde capacidades cognitivas hasta procesos legales. Cf. yatray (saber) muestra relación entre conocimiento y justicia."
+    },
+    {
+      "palabra": "KABALLU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Caballo.",
+      "ejemplo": "",
+      "referencias": "Animal introducido por españoles que revolucionó el transporte andino. Simboliza estatus en algunas comunidades. Cf. Bistya (variante regional)."
+    },
+    {
+      "palabra": "KACHANKA",
+      "origen": "",
+      "categoria": "s. POR.",
+      "definicion": "Pan de harina de maíz tostado hecho en tiesto.",
+      "ejemplo": "",
+      "referencias": "Alimento tradicional del dialecto Porcon. Técnica de cocción prehispánica que sobrevive en zonas rurales."
+    },
+    {
+      "palabra": "KATRAKAY",
+      "origen": "",
+      "categoria": "intr.",
+      "definicion": "Liberarse; mejorarse (sanarse de enfermedad).",
+      "ejemplo": "Congorin manta katrakarqanna, 'ya se sanó de la rodilla'.",
+      "referencias": "Proceso de curación física y espiritual. La liberación puede referirse a ataduras físicas o situaciones opresivas."
+    },
+    {
+      "palabra": "KATRAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Soltar; dejar libre; enviar; ordenar.",
+      "ejemplo": "Katarapani lampata, 'solté la lampa'.",
+      "referencias": "Verbo polisémico que une acciones físicas (soltar) con actos de autoridad (ordenar). Refleja concepto integral de libertad."
+    },
+    {
+      "palabra": "KATRI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Sal.",
+      "ejemplo": "",
+      "referencias": "Mineral esencial en economía tradicional (trueque). En rituales, simboliza protección y purificación. Su carencia histórica marcó rutas comerciales."
+    },
+    {
+      "palabra": "KUTI",
+      "origen": "",
+      "categoria": "adj. CHET.",
+      "definicion": "Color blanco moteado con marrón.",
+      "ejemplo": "",
+      "referencias": "Patrón cromático común en animales domésticos (llamas, cuyes). Valorado estéticamente en textiles tradicionales."
+    },
+    {
+      "palabra": "KUTIPAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Volver a remover tierra alrededor de la planta.",
+      "ejemplo": "",
+      "referencias": "Técnica agrícola de aporque que fortalece raíces. Cf. ampuy (primera escarda) y krusa (segunda arada) muestran sistema integral de cultivo."
+    },
+    {
+      "palabra": "KUYAY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Querer, amar, mimar.",
+      "ejemplo": "Noqa Blankata kuyani, 'quiero a Blanca'. Kuyayniyqam ancha atun qampaq, 'mi cariño es muy grande para ti'.",
+      "referencias": "Emoción fundamental que estructura relaciones humanas y con la naturaleza. Se expresa en acciones concretas de reciprocidad."
+    },
+    {
+      "palabra": "KWARISMA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Época de lluvias (noviembre-abril); barbecho abandonado.",
+      "ejemplo": "",
+      "referencias": "Período agrícola crucial. El barbecho temporal ('puruma') permite regeneración de suelos. Ciclo vinculado a rituales de fertilidad."
+    },
+    {
+      "palabra": "KWATRU",
+      "origen": "",
+      "categoria": "num.",
+      "definicion": "Cuatro.",
+      "ejemplo": "",
+      "referencias": "Numeral fundamental en la organización espacial andina (ej. divisiones territoriales en cuarteles). Su uso en sistemas de turnos (faenas) refleja la importancia del número en estructuras comunitarias. Cf. trusku (variante dialectal)."
+    },
+    {
+      "palabra": "KWINTIRU",
+      "origen": "esp. cuento",
+      "categoria": "adj.",
+      "definicion": "Mentiroso; chismoso; fanfarrón.",
+      "ejemplo": "",
+      "referencias": "Préstamo español readaptado semánticamente. En cultura oral andina, el exceso de palabras (llamkay simi) se considera peligroso frente al valor del silencio reflexivo (upalla). Cf. gallolikidu, gallosapa (términos para habladores)."
+    },
+    {
+      "palabra": "KWIRPU",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Cuerpo.",
+      "ejemplo": "",
+      "referencias": "Concepto introducido durante la colonia que convive con términos nativos (awka, kurku). En medicina tradicional, el cuerpo es mapa cósmico donde se reflejan desequilibrios entre frío/calor (chiri/qunu)."
+    },
+    {
+      "palabra": "LABIJIRA",
+      "origen": "esp. clavija",
+      "categoria": "s. POR.",
+      "definicion": "Orificio del timón para la klabija.",
+      "ejemplo": "",
+      "referencias": "Término técnico agrícola del dialecto Porcon. Refleja adaptación de tecnología europea (arados) a contextos andinos. La precisión en estos ensamblajes determina la eficiencia del labrado. Cf. klabijira (variante Chetilla)."
+    },
+    {
+      "palabra": "LADIRA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Ladera.",
+      "ejemplo": "",
+      "referencias": "Unidad topográfica esencial en agricultura andina. Su inclinación determina sistemas de terrazas (pata-pata), drenaje y exposición solar. Lugares sagrados (apus) suelen ubicarse en laderas específicas según orientación cardinal."
+    },
+    {
+      "palabra": "LADRUN",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Ladrón.",
+      "ejemplo": "",
+      "referencias": "Figura social severamente sancionada. El hurto rompe principios de reciprocidad (ayni) y equilibrio comunitario. Rituales de restitución involucran pagos simbólicos a la tierra. Cf. bajshiru, barba (eufemismos)."
+    },
+    {
+      "palabra": "LADYAV",
+      "origen": "esp. ladear",
+      "categoria": "intr.",
+      "definicion": "Apartarse; hacerse a un lado.",
+      "ejemplo": "",
+      "referencias": "Acción física con connotaciones sociales: ceder el paso a mayores, evitar conflictos o permitir el flujo en ceremonias. En danzas rituales, este movimiento sincronizado tiene significado cósmico."
+    },
+    {
+      "palabra": "LAJARTIJA",
+      "origen": "esp.",
+      "categoria": "s.",
+      "definicion": "Lagartija.",
+      "ejemplo": "",
+      "referencias": "Reptil con significados ambivalentes: en algunas comunidades augura lluvia, en otras se asocia a brujería. Su cola regenerativa es usada en preparados medicinales para soldar huesos. Cf. qotor (término nativo)."
+    },
+    {
+      "palabra": "LAMARMATI",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Concha marina.",
+      "ejemplo": "",
+      "referencias": "Objeto de intercambio ritual desde épocas prehispánicas (trueque costa-sierra). Simboliza fertilidad y conexión con el mundo submarino (mama cocha). Usada en collares ceremoniales y como ofrenda en pagos a la tierra."
+    },
+    {
+      "palabra": "LAMPA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Lampa (herramienta agrícola).",
+      "ejemplo": "",
+      "referencias": "Herramienta multifuncional: labranza, siembra y cosecha de tubérculos. Su diseño varía según microclimas. En rituales, representa conexión con la Pachamama y se 'alimenta' con hojas de coca durante las faenas."
+    },
+    {
+      "palabra": "LAMPAO",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Insípido; persona sin gracia.",
+      "ejemplo": "",
+      "referencias": "Metaforiza la importancia del equilibrio en sabores y relaciones sociales. Lo 'soso' contrasta con el valor de la intensidad vital (kawsay). En contextos festivos, describe a quien no participa en danzas o bromas."
+    },
+    {
+      "palabra": "LANYA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Rayo.",
+      "ejemplo": "",
+      "referencias": "Fenómeno atmosférico temido y reverenciado. Se considera manifestación de deidades montañas (apus) enojadas. Lugares impactados son marcados con cruces y recibirán ofrendas. El sonido asociado (lanyay) anuncia cambios climáticos."
+    },
+    {
+      "palabra": "LANTARUTU",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Ceremonia de corte de pelo.",
+      "ejemplo": "",
+      "referencias": "Rito de paso infantil (similar al rutuchikuy). El primer corte de cabello (lanta) marca ingreso a la comunidad. Padrinos regalan herramientas miniatura simbolizando roles futuros. El cabello cortado se ofrece a la tierra."
+    },
+    {
+      "palabra": "LAPACHU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Oreja grande semejante a la lapa (molusco).",
+      "ejemplo": "",
+      "referencias": "Atributo físico con connotaciones positivas (capacidad de escucha) o negativas (objeto de burla). En adivinación, el tamaño y forma de orejas se interpretan en lecturas de hoja de coca."
+    },
+    {
+      "palabra": "LAPUTIY",
+      "origen": "",
+      "categoria": "tr.",
+      "definicion": "Abofetear.",
+      "ejemplo": "",
+      "referencias": "Acción correctiva reservada principalmente para niños. En adultos, constituye grave ofensa que exige restitución ritual. El golpe en mejilla derecha se considera más ofensivo que en izquierda según simbolismo direccional andino."
+    },
+    {
+      "palabra": "LAQMAKAY",
+      "origen": "",
+      "categoria": "intr. CHET.",
+      "definicion": "Tambalearse; estar por caerse.",
+      "ejemplo": "",
+      "referencias": "Dialecto Chetilla: describe inestabilidad física (ebriedad, enfermedad) o moral (indecisión). En construcciones, alerta sobre riesgo de derrumbe. Metaforiza situaciones sociales precarias o decisiones vacilantes."
+    },
+    {
+      "palabra": "LAR-DUSI",
+      "origen": "esp. las doce",
+      "categoria": "s.",
+      "definicion": "Almuerzo; las doce.",
+      "ejemplo": "",
+      "referencias": "Fusión lingüística que marca el horario central de alimentación. Comida comunitaria en faenas agrícolas donde se refuerzan lazos sociales. El compartir alimentos (mink'a) simboliza reciprocidad cósmica."
+    },
+    {
+      "palabra": "LARGUNCHU",
+      "origen": "",
+      "categoria": "adj.",
+      "definicion": "Alto y flaco.",
+      "ejemplo": "Chay runaqam largunchu, 'ese hombre es alto (y flaco)'.",
+      "referencias": "Descripción física con matices: puede indicar elegancia o fragilidad según contexto. En mitos locales, ciertos seres sobrenaturales (karisiris) son descritos con esta complexión."
+    },
+    {
+      "palabra": "LEOETRA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Diarrea.",
+      "ejemplo": "",
+      "referencias": "Enfermedad atribuida a desequilibrios térmicos (exceso de frío) o transgresiones dietéticas. Tratada con hierbas astringentes (muña, guayaba) y baños de vapor. En niños, puede interpretarse como 'susto' (pérdida del alma)."
+    },
+    {
+      "palabra": "LEOO",
+      "origen": "",
+      "categoria": "s. CHET.",
+      "definicion": "Sustancia espesa (mazamorra, barro).",
+      "ejemplo": "",
+      "referencias": "Dialecto Chetilla: textura valorada en alimentos como signo de nutritividad. En agricultura, el barro espeso (allpa leoo) indica fertilidad. Contrasta con lo aguado (yaku-yaku), símbolo de pobreza o enfermedad."
+    },
+    {
+      "palabra": "LICHUN",
+      "origen": "esp.",
+      "categoria": "s. POR.",
+      "definicion": "Cerdo degollado y horneado para padrinos en bautizos y cortapelos.",
+      "ejemplo": "",
+      "referencias": "Práctica del dialecto Porcon que refuerza vínculos de compadrazgo. El cerdo entero simboliza abundancia y reciprocidad. Su preparación sigue protocolos específicos donde cada parte tiene significado ritual."
+    },
+    {
+      "palabra": "LAPIV",
+      "origen": "",
+      "categoria": "tr. POR.",
+      "definicion": "Ruido onomatopéyico de perro bebiendo.",
+      "ejemplo": "",
+      "referencias": "Dialecto Porcon: ejemplo de lenguaje sonoro que imita la naturaleza. Estos términos abundan en contextos pastoriles para describir comportamientos animales. Cf. laplly (variante más suave)."
+    },
+    {
+      "palabra": "LAPLA",
+      "origen": "",
+      "categoria": "s.",
+      "definicion": "Tortilla.",
+      "ejemplo": "",
+      "referencias": "Alimento cotidiano de maíz o trigo. Su forma circular simboliza el ciclo agrícola. En ofrendas, se presenta a deidades terrestres con queso fresco. Versatilidad: acompaña guisos o se consume con miel en festividades."
+    },
+    {
+      "palabra": "LIMPU",
+      "origen": "esp. limpio",
+      "categoria": "pre. adj.",
+      "definicion": "Completamente; a ras.",
+      "ejemplo": "",
+      "referencias": "Préstamo español usado como intensificador: 'Limpu mikurqani' (comí todo completamente). En agricultura, indica cosecha total ('chakta limpuy'). Connota eficiencia y ausencia de desperdicio en economía de subsistencia."
     }
 ]
